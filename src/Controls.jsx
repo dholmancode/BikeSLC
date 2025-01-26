@@ -29,12 +29,61 @@ const geojsonIconMapping = {
 };
 
 const dashColorMapping = {
+  // Bike Routes
   'Protective_Bike_Lane.geojson': 'green',
   'Sweeping_Bike_Lane.geojson': 'purple',
   'On_Road_Bike_Way.geojson': 'yellow',
   'OSM.geojson': 'blue',
+
+  // Areas (Adding custom colors for each area)
+  'SLCParks.geojson': 'green', // Color for Salt Lake City Parks
+  'Historic_Preservation.geojson': 'orange', // Color for Historic Preservation Areas
 };
 
+const CategorySection = ({ title, files, type, handleCheckboxChange, activeLayers }) => {
+  return (
+    <div className="category">
+      <h4>{title}</h4>
+      {files.reverse().map((file) => {
+        const fileName = file?.file?.split('/').pop();
+        const geojsonTitle = geojsonTitleMapping[fileName] || fileName;
+        const icon = geojsonIconMapping[fileName];
+        const dashColor = dashColorMapping[fileName] || 'black'; // Default to black if no color found
+
+        return (
+          <div key={fileName} className="control-item">
+            <input
+              type="checkbox"
+              id={fileName}
+              checked={activeLayers[fileName] || false}
+              onChange={() => handleCheckboxChange(fileName)}
+            />
+            <label htmlFor={fileName}>
+              {type === 'bikeRoute' && (
+                <span style={{ marginRight: '8px', color: dashColor }}><strong>----</strong></span>
+              )}
+              {type === 'area' && (
+                <span
+                  style={{
+                    display: 'inline-block',
+                    width: '20px',
+                    height: '20px',
+                    marginRight: '8px',
+                    backgroundColor: dashColor, // Apply custom color for areas
+                  }}
+                ></span>
+              )}
+              {type === 'destination' && icon && (
+                <img src={icon} alt={geojsonTitle} style={{ width: '30px', marginRight: '8px' }} />
+              )}
+              {geojsonTitle}
+            </label>
+          </div>
+        );
+      })}
+    </div>
+  );
+};
 
 const Controls = ({ geojsonFiles = [], handleLayerToggle }) => {
   const [activeLayers, setActiveLayers] = useState({});
@@ -51,111 +100,50 @@ const Controls = ({ geojsonFiles = [], handleLayerToggle }) => {
     return <div>No GeoJSON files available.</div>;
   }
 
-  // Separate files into categories
   const bikeRoutes = geojsonFiles.filter(file =>
     file?.file?.includes('OSM.geojson') ||
-    file?.file?.includes('Sweeping_Bike_Lane') || 
-    file?.file?.includes('Protective_Bike_Lane') || 
+    file?.file?.includes('Sweeping_Bike_Lane') ||
+    file?.file?.includes('Protective_Bike_Lane') ||
     file?.file?.includes('On_Road_Bike_Way')
   );
-  
+
   const areas = geojsonFiles.filter(file =>
-    file?.file?.includes('SLCParks') || 
+    file?.file?.includes('SLCParks') ||
     file?.file?.includes('Historic_Preservation')
   );
+
   const destinations = geojsonFiles.filter(file =>
-    file?.file?.includes('POI') || 
-    file?.file?.includes('Historic_Sites') || 
-    file?.file?.includes('Art') || file?.file?.includes('Bench') || 
+    file?.file?.includes('POI') ||
+    file?.file?.includes('Historic_Sites') ||
+    file?.file?.includes('Art') ||
+    file?.file?.includes('Bench') ||
     file?.file?.includes('Bike_Rack')
   );
 
   return (
     <div className="controls">
       <h3>Map Controls</h3>
-      {/* Bike Routes Section */}
-      <div className="category">
-        <h4>Bike Routes</h4>
-        {bikeRoutes.reverse().map((file) => {
-          const fileName = file?.file?.split('/').pop();
-          const title = geojsonTitleMapping[fileName] || fileName;
-          const dashColor = dashColorMapping[fileName] || 'black';  // Default to black if no color is found
-
-          return (
-            <div key={fileName} className="control-item">
-              <input
-                type="checkbox"
-                id={fileName}
-                checked={activeLayers[fileName] || false}
-                onChange={() => handleCheckboxChange(fileName)}
-              />
-              <label htmlFor={fileName}>
-                {/* Display a dash with the corresponding color for bike routes */}
-                <span style={{ marginRight: '8px', color: dashColor }}><strong>----</strong></span>
-                {title}
-              </label>
-            </div>
-          );
-        })}
-      </div>
-
-      {/* Areas Section */}
-      <div className="category">
-        <h4>Areas</h4>
-        {areas.reverse().map((file) => {
-          const fileName = file?.file?.split('/').pop();
-          const title = geojsonTitleMapping[fileName] || fileName;
-
-          return (
-            <div key={fileName} className="control-item">
-              <input
-                type="checkbox"
-                id={fileName}
-                checked={activeLayers[fileName] || false}
-                onChange={() => handleCheckboxChange(fileName)}
-              />
-              <label htmlFor={fileName}>
-                {/* Display a square with fill for areas */}
-                <span
-                  style={{
-                    display: 'inline-block',
-                    width: '20px',
-                    height: '20px',
-                    marginRight: '8px',
-                    backgroundColor: 'blue', // You can change this to match your design
-                  }}
-                ></span>
-                {title}
-              </label>
-            </div>
-          );
-        })}
-      </div>
-
-      {/* Destinations Section */}
-      <div className="category">
-        <h4>Destinations</h4>
-        {destinations.reverse().map((file) => {
-          const fileName = file?.file?.split('/').pop();
-          const title = geojsonTitleMapping[fileName] || fileName;
-          const icon = geojsonIconMapping[fileName];
-
-          return (
-            <div key={fileName} className="control-item">
-              <input
-                type="checkbox"
-                id={fileName}
-                checked={activeLayers[fileName] || false}
-                onChange={() => handleCheckboxChange(fileName)}
-              />
-              <label htmlFor={fileName}>
-                {icon && <img src={icon} alt={title} style={{ width: '30px', marginRight: '8px' }} />}
-                {title}
-              </label>
-            </div>
-          );
-        })}
-      </div>
+      <CategorySection
+        title="Bike Routes"
+        files={bikeRoutes}
+        type="bikeRoute"
+        handleCheckboxChange={handleCheckboxChange}
+        activeLayers={activeLayers}
+      />
+      <CategorySection
+        title="Areas"
+        files={areas}
+        type="area"
+        handleCheckboxChange={handleCheckboxChange}
+        activeLayers={activeLayers}
+      />
+      <CategorySection
+        title="Destinations"
+        files={destinations}
+        type="destination"
+        handleCheckboxChange={handleCheckboxChange}
+        activeLayers={activeLayers}
+      />
     </div>
   );
 };
