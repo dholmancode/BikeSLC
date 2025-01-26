@@ -1,0 +1,2668 @@
+{
+  "type": "FeatureCollection",
+  "crs": { "type": "name", "properties": { "name": "EPSG:4326" } },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8819611835, 40.7589657232378]
+      },
+      "properties": {
+        "FID": 1,
+        "PA_ID": 0,
+        "PA_TITLE": "Through the Safety Lens",
+        "PA_ARTIST": "Alexander Tylevich",
+        "PA_YEAR": 2013,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Dichroic Glass",
+        "PA_LOCATIO": "Public Safety Building",
+        "PA_ADDRESS": "475 S 300 E",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b0.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.919990068377, 40.7479397285005]
+      },
+      "properties": {
+        "FID": 2,
+        "PA_ID": 1,
+        "PA_TITLE": "The Dawn of a New Era: Peace",
+        "PA_ARTIST": "Avard T. Fairbanks",
+        "PA_YEAR": 1976,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Concrete and Terrazzo",
+        "PA_LOCATIO": "International Peace Gardens",
+        "PA_ADDRESS": "1060 S 900 W",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.826326505728, 40.7521634850941]
+      },
+      "properties": {
+        "FID": 3,
+        "PA_ID": 2,
+        "PA_TITLE": "Fire House Fire",
+        "PA_ARTIST": "Ben Jones, Cary Stevens Jones",
+        "PA_YEAR": 1990,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Neon",
+        "PA_LOCATIO": "Fire Station #10",
+        "PA_ADDRESS": "785 S Arapeen Dr",
+        "PA_ZIPCODE": "84108",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.852779987315, 40.7675972464858]
+      },
+      "properties": {
+        "FID": 4,
+        "PA_ID": 3,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Brad Taylor, Kerry Buxton",
+        "PA_YEAR": 2002,
+        "PA_WORKTYP": "Pavers",
+        "PA_MATERIA": "Stamped Concrete Pavers",
+        "PA_LOCATIO": "Reservoir Park, Driveway and Parking Lot",
+        "PA_ADDRESS": "54 S Finch Ln",
+        "PA_ZIPCODE": "84102",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.860957447466, 40.760919420701]
+      },
+      "properties": {
+        "FID": 5,
+        "PA_ID": 4,
+        "PA_TITLE": "Description of a Fault",
+        "PA_ARTIST": "Bruce Kaliser",
+        "PA_YEAR": 1983,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Anodized Aluminum",
+        "PA_LOCATIO": "Faultline Gardens",
+        "PA_ADDRESS": "1041 E 400 S",
+        "PA_ZIPCODE": "84102",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b4.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8819611835, 40.7589657232378]
+      },
+      "properties": {
+        "FID": 6,
+        "PA_ID": 5,
+        "PA_TITLE": "Presence",
+        "PA_ARTIST": "Buster Simpson",
+        "PA_YEAR": 2013,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Stainless Steel, Red Lights",
+        "PA_LOCATIO": "Public Safety Building",
+        "PA_ADDRESS": "475 S 300 E",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b5.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.890958065294, 40.7630793802883]
+      },
+      "properties": {
+        "FID": 7,
+        "PA_ID": 7,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Clay Furchess",
+        "PA_YEAR": 2001,
+        "PA_WORKTYP": "Tree Grates (7f or 7g)",
+        "PA_MATERIA": "Iron tree grates",
+        "PA_LOCATIO": "Downtown Business District (Between South Temple and 400 S)",
+        "PA_ADDRESS": "100 S - 400 S Main St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b7.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.891423517477, 40.7652397126084]
+      },
+      "properties": {
+        "FID": 8,
+        "PA_ID": 8,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Cliff Garten",
+        "PA_YEAR": 2001,
+        "PA_WORKTYP": "Benches",
+        "PA_MATERIA": "Bronze, stone and, wood",
+        "PA_LOCATIO": "Downtown Business District (NW Corner)",
+        "PA_ADDRESS": "200 S Main St",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b8.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.891270265787, 40.7636609863165]
+      },
+      "properties": {
+        "FID": 9,
+        "PA_ID": 9,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Cliff Garten",
+        "PA_YEAR": 2001,
+        "PA_WORKTYP": "Benches",
+        "PA_MATERIA": "Bronze, stone and, wood",
+        "PA_LOCATIO": "Downtown Business District (East Side)",
+        "PA_ADDRESS": "250 S Main St",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b9.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.891253634378, 40.766802190458]
+      },
+      "properties": {
+        "FID": 10,
+        "PA_ID": 10,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Cliff Garten",
+        "PA_YEAR": 2001,
+        "PA_WORKTYP": "Benches",
+        "PA_MATERIA": "Bronze, stone and, wood",
+        "PA_LOCATIO": "Downtown Business District (SW Corner)",
+        "PA_ADDRESS": "100 S Main St",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b10.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.902537092388, 40.763637955711]
+      },
+      "properties": {
+        "FID": 11,
+        "PA_ID": 11,
+        "PA_TITLE": "Order to Chaos",
+        "PA_ARTIST": "Cordell Taylor",
+        "PA_YEAR": 2003,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Painted steel",
+        "PA_LOCATIO": "Downtown Business District",
+        "PA_ADDRESS": "375 S 400 W",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b11.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.833632605443, 40.7488797224766]
+      },
+      "properties": {
+        "FID": 12,
+        "PA_ID": 12,
+        "PA_TITLE": "Gambel's Quail",
+        "PA_ARTIST": "Dan Gerhart",
+        "PA_YEAR": 2009,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze quail",
+        "PA_LOCATIO": "Davis Park",
+        "PA_ADDRESS": "2000 E Hubbard Ave",
+        "PA_ZIPCODE": "84108",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b12.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.921534176231, 40.7546463116808]
+      },
+      "properties": {
+        "FID": 13,
+        "PA_ID": 13,
+        "PA_TITLE": "Pythagoras",
+        "PA_ARTIST": "Dan Gerhart",
+        "PA_YEAR": 2003,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Wall reliefs: cast bronze and wood veneer -  bronze",
+        "PA_LOCATIO": "Pioneer Precinct Building",
+        "PA_ADDRESS": "1040 W 700 S",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b13.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.861861602698, 40.7253188931339]
+      },
+      "properties": {
+        "FID": 14,
+        "PA_ID": 14,
+        "PA_TITLE": "Bonneville Reliquary",
+        "PA_ARTIST": "Dan Gerhart",
+        "PA_YEAR": 2005,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Sugar House Business District",
+        "PA_ADDRESS": "2100 S 1050 E",
+        "PA_ZIPCODE": "84106",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b14.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.854172358938, 40.7254305247173]
+      },
+      "properties": {
+        "FID": 15,
+        "PA_ID": 15,
+        "PA_TITLE": "Bonneville Reliquary II",
+        "PA_ARTIST": "Dan Gerhart",
+        "PA_YEAR": 2009,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Sugar House Business District",
+        "PA_ADDRESS": "2100 S 1300 E",
+        "PA_ZIPCODE": "84106",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b15.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.028830316511, 40.778002073894]
+      },
+      "properties": {
+        "FID": 16,
+        "PA_ID": 16,
+        "PA_TITLE": "Windwheel #9",
+        "PA_ARTIST": "Darl Thomas",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Stainless steel",
+        "PA_LOCATIO": "Fire Station #9",
+        "PA_ADDRESS": "5822 W Amelia Earhart Dr",
+        "PA_ZIPCODE": "84116",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b16.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.860686122115, 40.7614041164334]
+      },
+      "properties": {
+        "FID": 17,
+        "PA_ID": 17,
+        "PA_TITLE": "Faultline",
+        "PA_ARTIST": "Darl Thomas",
+        "PA_YEAR": 1983,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Stainless steel",
+        "PA_LOCATIO": "Faultline Gardens, Northside",
+        "PA_ADDRESS": "1041 E 400 S",
+        "PA_ZIPCODE": "84102",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b17.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.843899126534, 40.7348922701545]
+      },
+      "properties": {
+        "FID": 18,
+        "PA_ID": 18,
+        "PA_TITLE": "Skeleton",
+        "PA_ARTIST": "Darl Thomas",
+        "PA_YEAR": 1996,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Fabricated metal on concrete base",
+        "PA_LOCATIO": "Wasatch Hollow Park",
+        "PA_ADDRESS": "1631 E 1700 S",
+        "PA_ZIPCODE": "84108",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.861059629932, 40.7221449622549]
+      },
+      "properties": {
+        "FID": 19,
+        "PA_ID": 19,
+        "PA_TITLE": "The Diver",
+        "PA_ARTIST": "Darl Thomas",
+        "PA_YEAR": 1987,
+        "PA_WORKTYP": "Frieze",
+        "PA_MATERIA": "Fabricated bronze",
+        "PA_LOCATIO": "Fairmont Park, Bathhouse",
+        "PA_ADDRESS": "2361 S 900 E",
+        "PA_ZIPCODE": "84106",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b19.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.892408803155, 40.7413971540051]
+      },
+      "properties": {
+        "FID": 20,
+        "PA_ID": 20,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "David Pursley",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Photographs",
+        "PA_MATERIA": "Hand-colored photographs",
+        "PA_LOCATIO": "Fire Station #8",
+        "PA_ADDRESS": "1300 S Main St",
+        "PA_ZIPCODE": "84115",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b20.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.888446690169, 40.7618842471591]
+      },
+      "properties": {
+        "FID": 21,
+        "PA_ID": 21,
+        "PA_TITLE": "Sidewalk Piece in Parts",
+        "PA_ARTIST": "David Sucec",
+        "PA_YEAR": 1990,
+        "PA_WORKTYP": "Pavers",
+        "PA_MATERIA": "Marble sidewalk pavers",
+        "PA_LOCATIO": "Downtown Business District",
+        "PA_ADDRESS": "350 S State St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b21.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.88843943807, 40.7608792962956]
+      },
+      "properties": {
+        "FID": 22,
+        "PA_ID": 22,
+        "PA_TITLE": "Sidewalk Piece in Parts",
+        "PA_ARTIST": "David Sucec",
+        "PA_YEAR": 1990,
+        "PA_WORKTYP": "Pavers",
+        "PA_MATERIA": "Marble sidewalk pavers",
+        "PA_LOCATIO": "Downtown Business District",
+        "PA_ADDRESS": "390 S State St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b22.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.890742308827, 40.7647196759023]
+      },
+      "properties": {
+        "FID": 23,
+        "PA_ID": 23,
+        "PA_TITLE": "Wildlife Wall",
+        "PA_ARTIST": "Day Christensen",
+        "PA_YEAR": 1994,
+        "PA_WORKTYP": "Plaques",
+        "PA_MATERIA": "Colored bronze",
+        "PA_LOCATIO": "Gallivan Center",
+        "PA_ADDRESS": "200 S Main St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b23.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.890122724606, 40.7642799268514]
+      },
+      "properties": {
+        "FID": 24,
+        "PA_ID": 24,
+        "PA_TITLE": "Story Wall",
+        "PA_ARTIST": "Day Christensen",
+        "PA_YEAR": 1994,
+        "PA_WORKTYP": "Plaques",
+        "PA_MATERIA": "Engraved bronze",
+        "PA_LOCATIO": "Gallivan Center",
+        "PA_ADDRESS": "200 S Main St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b24.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.921739310119, 40.7868259111405]
+      },
+      "properties": {
+        "FID": 25,
+        "PA_ID": 25,
+        "PA_TITLE": "Dairy Cats",
+        "PA_ARTIST": "Day Christensen",
+        "PA_YEAR": 2008,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze set of four cats",
+        "PA_LOCATIO": "Steenblik Park",
+        "PA_ADDRESS": "1000 W 800 N",
+        "PA_ZIPCODE": "84116",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b25.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.85038993506, 40.7784427654241]
+      },
+      "properties": {
+        "FID": 26,
+        "PA_ID": 26,
+        "PA_TITLE": "High Water",
+        "PA_ARTIST": "Day Christensen",
+        "PA_YEAR": 2012,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Stainless steel",
+        "PA_LOCATIO": "Popperton Park",
+        "PA_ADDRESS": "1350 E 11th Ave",
+        "PA_ZIPCODE": "84103",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b26.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.859341511221, 40.7246394998585]
+      },
+      "properties": {
+        "FID": 27,
+        "PA_ID": 27,
+        "PA_TITLE": "Sugarbeets",
+        "PA_ARTIST": "Day Christensen",
+        "PA_YEAR": 2003,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Sprague Library",
+        "PA_ADDRESS": "2131 S 1100 E",
+        "PA_ZIPCODE": "84106",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b27.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.858521665573, 40.7245071919477]
+      },
+      "properties": {
+        "FID": 28,
+        "PA_ID": 28,
+        "PA_TITLE": "Sugarbeets",
+        "PA_ARTIST": "Day Christensen",
+        "PA_YEAR": 2003,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Sugar House Commons",
+        "PA_ADDRESS": "1165 E 2150 S",
+        "PA_ZIPCODE": "84106",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b28.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.855670754221, 40.7241242645048]
+      },
+      "properties": {
+        "FID": 29,
+        "PA_ID": 29,
+        "PA_TITLE": "Sugarbeets",
+        "PA_ARTIST": "Day Christensen",
+        "PA_YEAR": 2003,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Hidden Hollow",
+        "PA_ADDRESS": "2175 E 2150 S",
+        "PA_ZIPCODE": "84106",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b29.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.847792750165, 40.7415395573032]
+      },
+      "properties": {
+        "FID": 30,
+        "PA_ID": 30,
+        "PA_TITLE": "Trees",
+        "PA_ARTIST": "Day Christensen",
+        "PA_YEAR": 2011,
+        "PA_WORKTYP": "Benches",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Yale/Harvard Neighborhoods",
+        "PA_ADDRESS": "1500 E 1300 S",
+        "PA_ZIPCODE": "84105",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b30.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.842418704742, 40.7415582008102]
+      },
+      "properties": {
+        "FID": 31,
+        "PA_ID": 32,
+        "PA_TITLE": "Trees",
+        "PA_ARTIST": "Day Christensen",
+        "PA_YEAR": 2011,
+        "PA_WORKTYP": "Benches",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Wasatch Hollow Neighborhood",
+        "PA_ADDRESS": "1700 E 1300 S",
+        "PA_ZIPCODE": "84105",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b32.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.844189613849, 40.7553646042607]
+      },
+      "properties": {
+        "FID": 32,
+        "PA_ID": 33,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Day Christensen, Bonnie Sucec",
+        "PA_YEAR": 2001,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Series of three glass walls",
+        "PA_LOCATIO": "Salt Lake Sports Complex",
+        "PA_ADDRESS": "645 S Guardsman Way",
+        "PA_ZIPCODE": "84108",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b33.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.89054025077, 40.7641619212727]
+      },
+      "properties": {
+        "FID": 33,
+        "PA_ID": 34,
+        "PA_TITLE": "Peace Cradle",
+        "PA_ARTIST": "Dennis Smith",
+        "PA_YEAR": 1994,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Gallivan Center",
+        "PA_ADDRESS": "200 S Main St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b34.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.92001439206, 40.748298354617]
+      },
+      "properties": {
+        "FID": 34,
+        "PA_ID": 35,
+        "PA_TITLE": "Peace Cradle",
+        "PA_ARTIST": "Dennis Smith",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "International Peace Gardens",
+        "PA_ADDRESS": "1060 S 900 W",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b35.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.872136492494, 40.7483708242648]
+      },
+      "properties": {
+        "FID": 35,
+        "PA_ID": 36,
+        "PA_TITLE": "The Doll and Dare",
+        "PA_ARTIST": "Dennis Smith",
+        "PA_YEAR": 1979,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Liberty Park NE section",
+        "PA_ADDRESS": "922 S 700 E",
+        "PA_ZIPCODE": "84105",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b36.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.88497499804, 40.7620560485628]
+      },
+      "properties": {
+        "FID": 36,
+        "PA_ID": 37,
+        "PA_TITLE": "Deadly Virtues",
+        "PA_ARTIST": "Douglas Soelberg",
+        "PA_YEAR": 2002,
+        "PA_WORKTYP": "Art Glass",
+        "PA_MATERIA": "Leaded, painted and colored art glass",
+        "PA_LOCATIO": "Justice Courts Building",
+        "PA_ADDRESS": "330 S 200 E",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b37.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.878129142974, 40.7559007515229]
+      },
+      "properties": {
+        "FID": 37,
+        "PA_ID": 38,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Ed Dolinger",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Painted steel",
+        "PA_LOCATIO": "Richmond Park  (Gazebo)",
+        "PA_ADDRESS": "450 E 600 S",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b38.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.824947731904, 40.7254963203768]
+      },
+      "properties": {
+        "FID": 38,
+        "PA_ID": 39,
+        "PA_TITLE": "Parley Pratt",
+        "PA_ARTIST": "Ed Fraughton",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Monument",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Parley Pratt Plaza",
+        "PA_ADDRESS": "2300 E 2100 S",
+        "PA_ZIPCODE": "84109",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b39.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.921111053562, 40.7480646323701]
+      },
+      "properties": {
+        "FID": 39,
+        "PA_ID": 40,
+        "PA_TITLE": "The Little Mermaid",
+        "PA_ARTIST": "Edvard Eriksen",
+        "PA_YEAR": 1955,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "International Peace Gardens",
+        "PA_ADDRESS": "1060 S 900 W",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b40.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.873820817482, 40.7450881252619]
+      },
+      "properties": {
+        "FID": 40,
+        "PA_ID": 41,
+        "PA_TITLE": "Seven Canyons Fountain",
+        "PA_ARTIST": "Elizabeth Blackner, John Boyd, John Swain, Stephen Goldsmith",
+        "PA_YEAR": 1993,
+        "PA_WORKTYP": "Installation",
+        "PA_MATERIA": "Concrete, stone and, landscaping water feature",
+        "PA_LOCATIO": "Liberty Park",
+        "PA_ADDRESS": "922 S 700 E",
+        "PA_ZIPCODE": "84105",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b41.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.859467039104, 40.7246218026763]
+      },
+      "properties": {
+        "FID": 41,
+        "PA_ID": 42,
+        "PA_TITLE": "Sugar House Benches",
+        "PA_ARTIST": "Eric Thelander",
+        "PA_YEAR": 2008,
+        "PA_WORKTYP": "Benches",
+        "PA_MATERIA": "Concrete and epoxy coated steel",
+        "PA_LOCATIO": "Sugar House Business District",
+        "PA_ADDRESS": "2100 S 1100 E",
+        "PA_ZIPCODE": "84106",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b42.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.945902849503, 40.7581388128528]
+      },
+      "properties": {
+        "FID": 42,
+        "PA_ID": 43,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Frank Riggs",
+        "PA_YEAR": 1978,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Painted steel",
+        "PA_LOCATIO": "Salt Lake City Parks Department",
+        "PA_ADDRESS": "1965 W 500 S",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b43.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.896343754679, 40.750103236184]
+      },
+      "properties": {
+        "FID": 43,
+        "PA_ID": 44,
+        "PA_TITLE": "No Salt Just Pepper, Three Peas in a Pod, Starters,",
+        "PA_ARTIST": "Greg Ragland",
+        "PA_YEAR": 2010,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Painted cast aluminum",
+        "PA_LOCATIO": "People's Portable Garden",
+        "PA_ADDRESS": "200 W 900 S",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b44.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8819611835, 40.7589657232378]
+      },
+      "properties": {
+        "FID": 44,
+        "PA_ID": 45,
+        "PA_TITLE": "Serve & Protect",
+        "PA_ARTIST": "Greg Ragland",
+        "PA_YEAR": 2013,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Public Safety Building",
+        "PA_ADDRESS": "475 S 300 E",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b45.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.890333125317, 40.7638266330766]
+      },
+      "properties": {
+        "FID": 45,
+        "PA_ID": 46,
+        "PA_TITLE": "Through the Shelter of Love",
+        "PA_ARTIST": "Jane DeDecker",
+        "PA_YEAR": 1994,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Gallivan Center",
+        "PA_ADDRESS": "200 S Main St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b46.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.920356209111, 40.7754810374463]
+      },
+      "properties": {
+        "FID": 46,
+        "PA_ID": 47,
+        "PA_TITLE": "Fireman",
+        "PA_ARTIST": "Jeff Juhlin",
+        "PA_YEAR": 1991,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Corten steel",
+        "PA_LOCATIO": "Fire Station #7",
+        "PA_ADDRESS": "1000 W 300 N",
+        "PA_ZIPCODE": "84116",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b47.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.822758228536, 40.7237868565936]
+      },
+      "properties": {
+        "FID": 47,
+        "PA_ID": 48,
+        "PA_TITLE": "Fireman",
+        "PA_ARTIST": "Jeff Juhlin",
+        "PA_YEAR": 1994,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Corten steel",
+        "PA_LOCATIO": "Fire Station #13",
+        "PA_ADDRESS": "2360 E Parleys Way",
+        "PA_ZIPCODE": "84109",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b48.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.862818136898, 40.7333057180206]
+      },
+      "properties": {
+        "FID": 48,
+        "PA_ID": 49,
+        "PA_TITLE": "Childrens Wall",
+        "PA_ARTIST": "Jeff Juhlin",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Relief Sculptre",
+        "PA_MATERIA": "Imprinted concrete",
+        "PA_LOCATIO": "Westminster Park",
+        "PA_ADDRESS": "990 E 1700 S",
+        "PA_ZIPCODE": "84105",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b49.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.918505468521, 40.7522860475653]
+      },
+      "properties": {
+        "FID": 49,
+        "PA_ID": 50,
+        "PA_TITLE": "Courage Under Fire",
+        "PA_ARTIST": "John Hess, Benjamin Higbee",
+        "PA_YEAR": 2013,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Stainless steel, marble, tile, acrylic, paint",
+        "PA_LOCATIO": "Fire Station #6",
+        "PA_ADDRESS": "948 W 800 S",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b50.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.889830990429, 40.7640765700399]
+      },
+      "properties": {
+        "FID": 50,
+        "PA_ID": 51,
+        "PA_TITLE": "Water Walk",
+        "PA_ARTIST": "John Pace and Associates/John Shaw",
+        "PA_YEAR": 1994,
+        "PA_WORKTYP": "Water Feature",
+        "PA_MATERIA": "Painted steel, vines and water",
+        "PA_LOCATIO": "Gallivan Center",
+        "PA_ADDRESS": "200 S Main St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b51.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.883024532776, 40.7545444852408]
+      },
+      "properties": {
+        "FID": 51,
+        "PA_ID": 52,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "John Swain",
+        "PA_YEAR": 1979,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Painted steel and concrete",
+        "PA_LOCATIO": "Taufer Park",
+        "PA_ADDRESS": "700 S 300 E",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b52.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.889824850444, 40.7645402488434]
+      },
+      "properties": {
+        "FID": 52,
+        "PA_ID": 53,
+        "PA_TITLE": "Asteroid Landing Softly",
+        "PA_ARTIST": "Kazuo Matsubayashi",
+        "PA_YEAR": 1994,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Steel, copper, sandstone",
+        "PA_LOCATIO": "Gallivan Center",
+        "PA_ADDRESS": "200 S Main St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b53.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.899150803093, 40.7715081502736]
+      },
+      "properties": {
+        "FID": 53,
+        "PA_ID": 54,
+        "PA_TITLE": "Dancing Clowns",
+        "PA_ARTIST": "Kazuo Matsubayashi",
+        "PA_YEAR": 1994,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Painted steel rods",
+        "PA_LOCATIO": "Downtown Business District, In Median Strip",
+        "PA_ADDRESS": "250 W North Temple St",
+        "PA_ZIPCODE": "84103",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b54.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.933411527543, 40.7832604658108]
+      },
+      "properties": {
+        "FID": 54,
+        "PA_ID": 55,
+        "PA_TITLE": "Friends of the Park",
+        "PA_ARTIST": "Kent Miles",
+        "PA_YEAR": 1993,
+        "PA_WORKTYP": "Plaques",
+        "PA_MATERIA": "Photographs, enamel on metal",
+        "PA_LOCATIO": "Riverside Park",
+        "PA_ADDRESS": "1400 W 700 N",
+        "PA_ZIPCODE": "84116",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b55.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.830454227628, 40.744977535963]
+      },
+      "properties": {
+        "FID": 55,
+        "PA_ID": 56,
+        "PA_TITLE": "Children of Light",
+        "PA_ARTIST": "Kraig Varner",
+        "PA_YEAR": 2004,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Stainless steel",
+        "PA_LOCATIO": "Anderson-Foothill Library",
+        "PA_ADDRESS": "1135 S 2100 E",
+        "PA_ZIPCODE": "84108",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b56.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.875928164527, 40.7447957320972]
+      },
+      "properties": {
+        "FID": 56,
+        "PA_ID": 57,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Lark Lucas",
+        "PA_YEAR": 1978,
+        "PA_WORKTYP": "Mural",
+        "PA_MATERIA": "Ceramic tile",
+        "PA_LOCATIO": "Liberty Park",
+        "PA_ADDRESS": "922 S 700 E",
+        "PA_ZIPCODE": "84105",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b57.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8819611835, 40.7589657232378]
+      },
+      "properties": {
+        "FID": 57,
+        "PA_ID": 58,
+        "PA_TITLE": "Wave Harmonics",
+        "PA_ARTIST": "Living Lenses: Louise Bertelsen, Po Shu Wang",
+        "PA_YEAR": 2013,
+        "PA_WORKTYP": "Sculpture, Water Feature",
+        "PA_MATERIA": "Stainless, water, led light",
+        "PA_LOCATIO": "Public Safety Building",
+        "PA_ADDRESS": "475 S 300 E",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b58.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.890549453112, 40.7639468185381]
+      },
+      "properties": {
+        "FID": 58,
+        "PA_ID": 59,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Mark Strand",
+        "PA_YEAR": 1994,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Poem engraved in granite",
+        "PA_LOCATIO": "Gallivan Center",
+        "PA_ADDRESS": "200 S Main St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b59.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.88491107662, 40.7615072904738]
+      },
+      "properties": {
+        "FID": 59,
+        "PA_ID": 60,
+        "PA_TITLE": "Day Goes By",
+        "PA_ARTIST": "McGarren Flack",
+        "PA_YEAR": 2004,
+        "PA_WORKTYP": "Painting",
+        "PA_MATERIA": "Acrylic on canvas",
+        "PA_LOCATIO": "349 Plaza, Transportation Department",
+        "PA_ADDRESS": "349 S 200 E",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b60.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.860197052324, 40.7252806772718]
+      },
+      "properties": {
+        "FID": 60,
+        "PA_ID": 61,
+        "PA_TITLE": "Sugarhouse Pioneer Monument",
+        "PA_ARTIST": "Millard Fillmore Malin",
+        "PA_YEAR": 1930,
+        "PA_WORKTYP": "Monument",
+        "PA_MATERIA": "Bronze and sandstone",
+        "PA_LOCATIO": "Sugar House Business District",
+        "PA_ADDRESS": "2100 S 1100 E",
+        "PA_ZIPCODE": "84106",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b61.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.889826101797, 40.7644047108943]
+      },
+      "properties": {
+        "FID": 61,
+        "PA_ID": 62,
+        "PA_TITLE": "Portal",
+        "PA_ARTIST": "Neil Hadlock",
+        "PA_YEAR": 1994,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Granite and concrete",
+        "PA_LOCATIO": "Gallivan Center",
+        "PA_ADDRESS": "200 S Main St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b62.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.900060658135, 40.7686919532144]
+      },
+      "properties": {
+        "FID": 62,
+        "PA_ID": 63,
+        "PA_TITLE": "An Urban Allegory",
+        "PA_ARTIST": "Neil Hadlock",
+        "PA_YEAR": 1992,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast stainless steel",
+        "PA_LOCATIO": "Energy Solutions Center",
+        "PA_ADDRESS": "300 W South Temple St",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b63.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.923371832858, 40.7364092695758]
+      },
+      "properties": {
+        "FID": 63,
+        "PA_ID": 64,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Paul Heath, Linda Nowlin, Louise Fischman, Wayne Geary",
+        "PA_YEAR": 2002,
+        "PA_WORKTYP": "Pavers, Benches",
+        "PA_MATERIA": "Concrete pavers and ceramic tile mosaics",
+        "PA_LOCATIO": "Jordan River Parkway",
+        "PA_ADDRESS": "1550 S 1110 W",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b64.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.921180333434, 40.7440925726607]
+      },
+      "properties": {
+        "FID": 64,
+        "PA_ID": 65,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Paul Heath, Linda Nowlin, Louise Fischman, Wayne Geary",
+        "PA_YEAR": 2002,
+        "PA_WORKTYP": "Pavers, Benches",
+        "PA_MATERIA": "Concrete pavers and ceramic tile mosaics",
+        "PA_LOCATIO": "Jordan River Parkway",
+        "PA_ADDRESS": "1150 S 1000 W",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b65.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.892764118291, 40.7413968640608]
+      },
+      "properties": {
+        "FID": 65,
+        "PA_ID": 66,
+        "PA_TITLE": "Lantern",
+        "PA_ARTIST": "Paul Heath, William R. Littig",
+        "PA_YEAR": 1994,
+        "PA_WORKTYP": "Etched Glass",
+        "PA_MATERIA": "Etched glass panels",
+        "PA_LOCATIO": "Smith Ballpark",
+        "PA_ADDRESS": "1365 S West Temple St",
+        "PA_ZIPCODE": "84115",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b66.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.923027585865, 40.7585855852546]
+      },
+      "properties": {
+        "FID": 66,
+        "PA_ID": 67,
+        "PA_TITLE": "Prometheus Fire Bearing",
+        "PA_ARTIST": "Pavlos Kougioumtzis",
+        "PA_YEAR": 2002,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Jordan River Parkway",
+        "PA_ADDRESS": "1145 W 500 S",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b67.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.920464012335, 40.7483079585325]
+      },
+      "properties": {
+        "FID": 67,
+        "PA_ID": 68,
+        "PA_TITLE": "Bauta Stone",
+        "PA_ARTIST": "Randi A. Bjorch",
+        "PA_YEAR": 1972,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Engraved concrete",
+        "PA_LOCATIO": "International Peace Gardens",
+        "PA_ADDRESS": "1060 S 900 W",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b68.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.87589149889, 40.743876943542]
+      },
+      "properties": {
+        "FID": 68,
+        "PA_ID": 69,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Richard Johnston",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Stainless steel",
+        "PA_LOCATIO": "Liberty Park, Tracy Aviary Entrance",
+        "PA_ADDRESS": "922 S 700 E",
+        "PA_ZIPCODE": "84105",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b69.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.89239716009, 40.7671557822465]
+      },
+      "properties": {
+        "FID": 69,
+        "PA_ID": 70,
+        "PA_TITLE": "Arch",
+        "PA_ARTIST": "Richard Johnston",
+        "PA_YEAR": 1990,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Painted steel",
+        "PA_LOCATIO": "Downtown Business District, In Median Strip",
+        "PA_ADDRESS": "50 W 100 S",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b70.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.917473278209, 40.7478870332385]
+      },
+      "properties": {
+        "FID": 70,
+        "PA_ID": 71,
+        "PA_TITLE": "Tweak 360",
+        "PA_ARTIST": "Robert Elison",
+        "PA_YEAR": 2005,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Carbon steel plate sheet with epoxy coating",
+        "PA_LOCATIO": "Jordan Skate Park",
+        "PA_ADDRESS": "1060 S 900 W",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b71.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.889675410307, 40.7647409133281]
+      },
+      "properties": {
+        "FID": 71,
+        "PA_ID": 72,
+        "PA_TITLE": "Citywalk Site Design 30",
+        "PA_ARTIST": "Roberto J. Delgado",
+        "PA_YEAR": 2001,
+        "PA_WORKTYP": "Sidewalk Inlays",
+        "PA_MATERIA": "Ceramic tiles with cast bronze collars",
+        "PA_LOCATIO": "Utah One Center",
+        "PA_ADDRESS": "200 S Main St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b72.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.877153189893, 40.7517026298339]
+      },
+      "properties": {
+        "FID": 72,
+        "PA_ID": 73,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Sam Allen",
+        "PA_YEAR": 1979,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Painted steel",
+        "PA_LOCATIO": "Artesian Well Park",
+        "PA_ADDRESS": "808 S 500 E",
+        "PA_ZIPCODE": "84102",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b73.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.87623183911, 40.7645153706208]
+      },
+      "properties": {
+        "FID": 73,
+        "PA_ID": 74,
+        "PA_TITLE": "Answering the Call",
+        "PA_ARTIST": "Silvia Davis",
+        "PA_YEAR": 1994,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Carved and laminated wood",
+        "PA_LOCATIO": "Fire Station #1",
+        "PA_ADDRESS": "500 E 200 S",
+        "PA_ZIPCODE": "84102",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b74.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.860751534739, 40.7214883121867]
+      },
+      "properties": {
+        "FID": 74,
+        "PA_ID": 75,
+        "PA_TITLE": "Dream Dog",
+        "PA_ARTIST": "Silvia Davis",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Fairmont Park",
+        "PA_ADDRESS": "900 E 2361 S",
+        "PA_ZIPCODE": "84106",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b75.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.897862271327, 40.7869306175464]
+      },
+      "properties": {
+        "FID": 75,
+        "PA_ID": 76,
+        "PA_TITLE": "Dream Dog",
+        "PA_ARTIST": "Silvia Davis",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Warm Springs Park, S of Wasatch Springs Building",
+        "PA_ADDRESS": "840 N Beck St.",
+        "PA_ZIPCODE": "84103",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b76.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.889773326673, 40.7643876747381]
+      },
+      "properties": {
+        "FID": 76,
+        "PA_ID": 77,
+        "PA_TITLE": "Crystal Grate",
+        "PA_ARTIST": "Silvia Davis, Jim Jacobs",
+        "PA_YEAR": 1994,
+        "PA_WORKTYP": "Tree Grates",
+        "PA_MATERIA": "Bronze",
+        "PA_LOCATIO": "Gallivan Center",
+        "PA_ADDRESS": "200 S Main St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b77.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.863970702357, 40.7198618427824]
+      },
+      "properties": {
+        "FID": 77,
+        "PA_ID": 78,
+        "PA_TITLE": "SK8I80",
+        "PA_ARTIST": "Stephen Glassman",
+        "PA_YEAR": 2006,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Galvanized steel and plexiglass",
+        "PA_LOCATIO": "Fairmont Skate Park",
+        "PA_ADDRESS": "2361 S 900 E",
+        "PA_ZIPCODE": "84106",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b78.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.895455775411, 40.7645952047465]
+      },
+      "properties": {
+        "FID": 78,
+        "PA_ID": 79,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Stephen Goldsmith",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Benches, Sculpture",
+        "PA_MATERIA": "Bronze, stone, concrete, wood, flora, wrought iron",
+        "PA_LOCATIO": "Pierpont Walkway",
+        "PA_ADDRESS": "200 W Pierpont Ave",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b79.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.86937450088, 40.7580793109719]
+      },
+      "properties": {
+        "FID": 79,
+        "PA_ID": 81,
+        "PA_TITLE": " ",
+        "PA_ARTIST": "Thomas B. Child",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Stone and other materials",
+        "PA_LOCATIO": "Gilgal Sculpture Gardens",
+        "PA_ADDRESS": "750 E 500 S",
+        "PA_ZIPCODE": "84102",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b81.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.921456351585, 40.7478896445234]
+      },
+      "properties": {
+        "FID": 80,
+        "PA_ID": 82,
+        "PA_TITLE": "Spirit Poles",
+        "PA_ARTIST": "Thomas Kass",
+        "PA_YEAR": 1985,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Carved wood poles",
+        "PA_LOCATIO": "International Peace Gardens",
+        "PA_ADDRESS": "1060 S 900 W",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b82.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.852772977761, 40.7678136348327]
+      },
+      "properties": {
+        "FID": 81,
+        "PA_ID": 83,
+        "PA_TITLE": "Rococo-coco",
+        "PA_ARTIST": "Thomas Tessman",
+        "PA_YEAR": 1989,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Brass and steel",
+        "PA_LOCATIO": "Reservoir Park, Art Barn Roof",
+        "PA_ADDRESS": "54 S Finch Ln",
+        "PA_ZIPCODE": "84102",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b83.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.895455775411, 40.7645952047465]
+      },
+      "properties": {
+        "FID": 82,
+        "PA_ID": 85,
+        "PA_TITLE": "Pierpont Benches",
+        "PA_ARTIST": "Thomas Tessman",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Benches",
+        "PA_MATERIA": "Sandstone",
+        "PA_LOCATIO": "Pierpont Walkway",
+        "PA_ADDRESS": "200 S Pierpont Ave",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b85.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.865571851434, 40.7494374842012]
+      },
+      "properties": {
+        "FID": 83,
+        "PA_ID": 86,
+        "PA_TITLE": "Nine Muses",
+        "PA_ARTIST": "Troy Pillow",
+        "PA_YEAR": 2007,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Powder coated stainless steel, enameling, kinetic parts",
+        "PA_LOCATIO": "9th and 9th Business District",
+        "PA_ADDRESS": "900 S 900 E",
+        "PA_ZIPCODE": "84105",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b86.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.870513223301, 40.7414709127797]
+      },
+      "properties": {
+        "FID": 84,
+        "PA_ID": 87,
+        "PA_TITLE": "Herman Franks",
+        "PA_ARTIST": "Unknown",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Herman Franks Park",
+        "PA_ADDRESS": "700 E 1300 S",
+        "PA_ZIPCODE": "84105",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b87.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.921756908116, 40.7476307422977]
+      },
+      "properties": {
+        "FID": 85,
+        "PA_ID": 88,
+        "PA_TITLE": "Dolman Replica",
+        "PA_ARTIST": "Unknown",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Quartizite, schist boulder assemblage",
+        "PA_LOCATIO": "International Peace Gardens",
+        "PA_ADDRESS": "1060 S 900 W",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b88.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.921133592293, 40.7469435747735]
+      },
+      "properties": {
+        "FID": 86,
+        "PA_ID": 89,
+        "PA_TITLE": "Irish Cross",
+        "PA_ARTIST": "Unknown",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Painted metal",
+        "PA_LOCATIO": "International Peace Gardens",
+        "PA_ADDRESS": "1060 S 900 W",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b89.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.921843223638, 40.7472885344946]
+      },
+      "properties": {
+        "FID": 87,
+        "PA_ID": 90,
+        "PA_TITLE": "Japanese Lanterns",
+        "PA_ARTIST": "Unknown",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Granite",
+        "PA_LOCATIO": "International Peace Gardens",
+        "PA_ADDRESS": "1060 S 900 W",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b90.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.92025254173, 40.7486730315154]
+      },
+      "properties": {
+        "FID": 88,
+        "PA_ID": 91,
+        "PA_TITLE": "Matterhorn Replica",
+        "PA_ARTIST": "Unknown",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Stucco",
+        "PA_LOCATIO": "International Peace Gardens",
+        "PA_ADDRESS": "1060 S 900 W",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b91.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.921054573786, 40.7472745462638]
+      },
+      "properties": {
+        "FID": 89,
+        "PA_ID": 92,
+        "PA_TITLE": "Olmec Head Replica",
+        "PA_ARTIST": "Unknown",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Limestone",
+        "PA_LOCATIO": "International Peace Gardens",
+        "PA_ADDRESS": "1060 S 900 W",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b92.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.920676715428, 40.7469508146074]
+      },
+      "properties": {
+        "FID": 90,
+        "PA_ID": 93,
+        "PA_TITLE": "Preaching Buddha",
+        "PA_ARTIST": "Unknown",
+        "PA_YEAR": 1965,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Bronze bas relief",
+        "PA_LOCATIO": "International Peace Gardens",
+        "PA_ADDRESS": "1060 S 900 W",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b93.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.920283331487, 40.7476920665308]
+      },
+      "properties": {
+        "FID": 91,
+        "PA_ID": 94,
+        "PA_TITLE": "Chinese Lions",
+        "PA_ARTIST": "Unknown",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Gray marble",
+        "PA_LOCATIO": "International Peace Gardens",
+        "PA_ADDRESS": "1060 S 900 W",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b94.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.957591690251, 40.7823338546124]
+      },
+      "properties": {
+        "FID": 92,
+        "PA_ID": 95,
+        "PA_TITLE": "Intensity",
+        "PA_ARTIST": "Ursula Brodauf-Craig",
+        "PA_YEAR": 1998,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Bronze and Concrete",
+        "PA_LOCATIO": "Fire Station #11",
+        "PA_ADDRESS": "700 N 2360 W",
+        "PA_ZIPCODE": "84116",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b95.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.870661082403, 40.7402649564203]
+      },
+      "properties": {
+        "FID": 93,
+        "PA_ID": 96,
+        "PA_TITLE": "Friends of the Park",
+        "PA_ARTIST": "Wayne Chubin",
+        "PA_YEAR": 1993,
+        "PA_WORKTYP": "Plaques",
+        "PA_MATERIA": "Photographs, enamel on metal",
+        "PA_LOCATIO": "Herman Franks Park",
+        "PA_ADDRESS": "1351 S 700 E",
+        "PA_ZIPCODE": "84105",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b96.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.94630741747, 40.7941958969019]
+      },
+      "properties": {
+        "FID": 95,
+        "PA_ID": 98,
+        "PA_TITLE": "Signal Site",
+        "PA_ARTIST": "Wayne Chubin, Tim Gallagher",
+        "PA_YEAR": 1997,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Fabricated metal",
+        "PA_LOCATIO": "Westpointe Park",
+        "PA_ADDRESS": "1100 N 2000 W",
+        "PA_ZIPCODE": "84116",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b98.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.908824251941, 40.7798045654323]
+      },
+      "properties": {
+        "FID": 96,
+        "PA_ID": 100,
+        "PA_TITLE": "Luptia, the Woman",
+        "PA_ARTIST": "William R. Littig",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Painted steel",
+        "PA_LOCATIO": "Guadalupe Park",
+        "PA_ADDRESS": "619 W 500 N",
+        "PA_ZIPCODE": "84116",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b100.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.852772977761, 40.7678136348327]
+      },
+      "properties": {
+        "FID": 97,
+        "PA_ID": 101,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "William R. Littig",
+        "PA_YEAR": 1989,
+        "PA_WORKTYP": "Art Glass",
+        "PA_MATERIA": "leaded glass window",
+        "PA_LOCATIO": "Reservoir Park, Art Barn Main floor",
+        "PA_ADDRESS": "54 Finch Ln",
+        "PA_ZIPCODE": "84102",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b101.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.883926779986, 40.7764346717226]
+      },
+      "properties": {
+        "FID": 98,
+        "PA_ID": 102,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "William R. Littig",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Pavers",
+        "PA_MATERIA": "Cast concrete pavers",
+        "PA_LOCATIO": "Memory Grove Park",
+        "PA_ADDRESS": "311 N A St",
+        "PA_ZIPCODE": "84103",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b102.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.864199991045, 40.7816090180765]
+      },
+      "properties": {
+        "FID": 99,
+        "PA_ID": 103,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "William R. Littig",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Art Glass",
+        "PA_MATERIA": "Etched glass",
+        "PA_LOCATIO": "Fire Station #4",
+        "PA_ADDRESS": "800 S 11th Ave",
+        "PA_ZIPCODE": "84103",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b103.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.857567787692, 40.7195186247276]
+      },
+      "properties": {
+        "FID": 100,
+        "PA_ID": 104,
+        "PA_TITLE": "Guardians",
+        "PA_ARTIST": "William R. Littig, Bernardo Flores-Sahagun",
+        "PA_YEAR": 1991,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Corten steel",
+        "PA_LOCATIO": "Elizabeth Sherman Park",
+        "PA_ADDRESS": "2400 S Highland Dr",
+        "PA_ZIPCODE": "84106",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b104.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.915352838218, 40.7403697341623]
+      },
+      "properties": {
+        "FID": 101,
+        "PA_ID": 105,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "William R. Littig, Bernardo Flores-Sahagun",
+        "PA_YEAR": 2008,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Powder coated steel",
+        "PA_LOCATIO": "Sorenson Unity Center",
+        "PA_ADDRESS": "855 W California Ave",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b105.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.859847465745, 40.7251599773634]
+      },
+      "properties": {
+        "FID": 102,
+        "PA_ID": 106,
+        "PA_TITLE": "Anagrams",
+        "PA_ARTIST": "William R. Littig, Bernardo Flores-Sahagun",
+        "PA_YEAR": 2004,
+        "PA_WORKTYP": "Pavers",
+        "PA_MATERIA": "Concrete etched pavers",
+        "PA_LOCATIO": "Sugar House Business District",
+        "PA_ADDRESS": "2100 S Highland Dr",
+        "PA_ZIPCODE": "84106",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b106.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.887928231995, 40.759561442089]
+      },
+      "properties": {
+        "FID": 103,
+        "PA_ID": 107,
+        "PA_TITLE": "Tribute to the Nations Constitution and Flag",
+        "PA_ARTIST": "Tarlief S. Knaphus",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Bronze",
+        "PA_LOCATIO": "Washington Square Park (West Side of City & County Building)",
+        "PA_ADDRESS": "451 S State St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b107.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.890955899455, 40.7639127827277]
+      },
+      "properties": {
+        "FID": 104,
+        "PA_ID": 108,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Cliff Garten",
+        "PA_YEAR": 2001,
+        "PA_WORKTYP": "Benches, Sculpture",
+        "PA_MATERIA": "Bronze, Stone, Wood Benches",
+        "PA_LOCATIO": "249 S Main St by Gallivan Center",
+        "PA_ADDRESS": "249 S Main St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b108.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.842751871915, 40.7417100105723]
+      },
+      "properties": {
+        "FID": 105,
+        "PA_ID": 109,
+        "PA_TITLE": "Trees",
+        "PA_ARTIST": "Day Christensen",
+        "PA_YEAR": 2011,
+        "PA_WORKTYP": "Benches, Sculpture",
+        "PA_MATERIA": "Cast Bronze",
+        "PA_LOCATIO": "Wasatch Hollow Neighborhood",
+        "PA_ADDRESS": "1675 E 1300 S",
+        "PA_ZIPCODE": "84105",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b109.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.885707959532, 40.7603094141743]
+      },
+      "properties": {
+        "FID": 106,
+        "PA_ID": 110,
+        "PA_TITLE": "May We Have Peace",
+        "PA_ARTIST": "Allan Houser",
+        "PA_YEAR": 2002,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Bronze",
+        "PA_LOCATIO": "City & County Building grounds - North East Corner",
+        "PA_ADDRESS": "451 S State St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b110.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.905280278669, 40.7693493905568]
+      },
+      "properties": {
+        "FID": 107,
+        "PA_ID": 111,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Day Christensen, Katherine Coles, Bri Matheson, Bonnie Susec",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Water Fountain and pool  (111b)",
+        "PA_MATERIA": "Concrete, Stone & Water",
+        "PA_LOCATIO": "500 West Park Blocks between (100 S and 500 S)",
+        "PA_ADDRESS": "500 W South Temple St",
+        "PA_ZIPCODE": "84103",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b111.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.834140409599, 40.7495188887412]
+      },
+      "properties": {
+        "FID": 108,
+        "PA_ID": 113,
+        "PA_TITLE": "Gambel's Quail",
+        "PA_ARTIST": "Dan Gerhart",
+        "PA_YEAR": 2009,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Cast bronze quail",
+        "PA_LOCATIO": "Davis Park",
+        "PA_ADDRESS": "2000 E 900 S",
+        "PA_ZIPCODE": "84108",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b113.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.922362630434, 40.754402473169]
+      },
+      "properties": {
+        "FID": 109,
+        "PA_ID": 112,
+        "PA_TITLE": "Pythagoras",
+        "PA_ARTIST": "Dan Gerhart",
+        "PA_YEAR": 2003,
+        "PA_WORKTYP": "Sculpture",
+        "PA_MATERIA": "Polished stainless Steel",
+        "PA_LOCATIO": "Pioneer Princinct",
+        "PA_ADDRESS": "1040 W 700 S",
+        "PA_ZIPCODE": "84104",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b112.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.891232638953, 40.7661653579983]
+      },
+      "properties": {
+        "FID": 110,
+        "PA_ID": 7,
+        "PA_TITLE": "Untiitled",
+        "PA_ARTIST": "Clay Furchess",
+        "PA_YEAR": 2001,
+        "PA_WORKTYP": "Manhole Cover (7 & 7b) (LIBERTY PARK - WD)",
+        "PA_MATERIA": "Iron manhole cover",
+        "PA_LOCATIO": "Downtown Business District (Between (100 S and 400 S)",
+        "PA_ADDRESS": "134 S Main St",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b7.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.89123564292, 40.76630806885]
+      },
+      "properties": {
+        "FID": 111,
+        "PA_ID": 7,
+        "PA_TITLE": "Untiltled",
+        "PA_ARTIST": "Clay Furchess",
+        "PA_YEAR": 2001,
+        "PA_WORKTYP": "Manhole Cover (7a) (FORT DOUGLAS - SS)",
+        "PA_MATERIA": "Iron manhole cover",
+        "PA_LOCATIO": "Downtown Business District (Between (100 S and 400 S)",
+        "PA_ADDRESS": "132 S Main St",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b7.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.891326255084, 40.7647021302209]
+      },
+      "properties": {
+        "FID": 112,
+        "PA_ID": 7,
+        "PA_TITLE": "Untiltled",
+        "PA_ARTIST": "Clay Furchess",
+        "PA_YEAR": 2001,
+        "PA_WORKTYP": "Manhole Cover (7d) (PIONEER PARK - SS)",
+        "PA_MATERIA": "Iron manhole cover",
+        "PA_LOCATIO": "Downtown Business District (Between (100 S and 400 S)",
+        "PA_ADDRESS": "205 S Main St",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b7.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.89096985119, 40.7632610212189]
+      },
+      "properties": {
+        "FID": 113,
+        "PA_ID": 7,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Clay Furchess",
+        "PA_YEAR": 2001,
+        "PA_WORKTYP": "Manhole Cover (7e) (STATE CAPITOL - WD)",
+        "PA_MATERIA": "Iron manhole cover",
+        "PA_LOCATIO": "Downtown Business District (Between (100 S and 400 S)",
+        "PA_ADDRESS": "269 S Main St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b7.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.891225567415, 40.763301930044]
+      },
+      "properties": {
+        "FID": 114,
+        "PA_ID": 7,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Clay Furchess",
+        "PA_YEAR": 2001,
+        "PA_WORKTYP": "Manhole Cover (7c) (PRESIDENTS CIRCLE - WD)",
+        "PA_MATERIA": "Iron manhole cover",
+        "PA_LOCATIO": "Downtown Business District (Between (100 S and 400 S, both sides of street)",
+        "PA_ADDRESS": "268 S Main St",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b7.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.889827846326, 40.7642753995626]
+      },
+      "properties": {
+        "FID": 115,
+        "PA_ID": 111,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Day Christensen, Katherine Coles, Bri Matheson, Bonnie Susec",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture  (111h)",
+        "PA_MATERIA": "Colored 3D relief on side of bridge",
+        "PA_LOCATIO": "Gallivan Center",
+        "PA_ADDRESS": "200 S Main St",
+        "PA_ZIPCODE": "84111",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b111.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.905266927907, 40.7700633640618]
+      },
+      "properties": {
+        "FID": 116,
+        "PA_ID": 111,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Day Christensen, Katherine Coles, Bri Matheson, Bonnie Susec",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture (Colored lights on poles) (111)",
+        "PA_MATERIA": "Polished stainless Steel and Glass",
+        "PA_LOCATIO": "500 West Park Blocks between (100 S and 500 S)",
+        "PA_ADDRESS": "1 S 500 W",
+        "PA_ZIPCODE": "84103",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b111.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.905269676752, 40.7674061006148]
+      },
+      "properties": {
+        "FID": 117,
+        "PA_ID": 111,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Day Christensen, Katherine Coles, Bri Matheson, Bonnie Susec",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture (111i)",
+        "PA_MATERIA": "Stone",
+        "PA_LOCATIO": "500 West Park Blocks between (100 S and 500 S)",
+        "PA_ADDRESS": "500 W 100 S",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b111.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.905287741872, 40.766660001144]
+      },
+      "properties": {
+        "FID": 118,
+        "PA_ID": 111,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Day Christensen, Katherine Coles, Bri Matheson, Bonnie Susec",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture (111j, 111k)",
+        "PA_MATERIA": "Concrete & Grass",
+        "PA_LOCATIO": "500 West Park Blocks between (100 S and 500 S)",
+        "PA_ADDRESS": "500 W 100 S",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b111.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.905228297655, 40.7669389617707]
+      },
+      "properties": {
+        "FID": 119,
+        "PA_ID": 111,
+        "PA_TITLE": "Untilled",
+        "PA_ARTIST": "Day Christensen, Katherine Coles, Bri Matheson, Bonnie Susec",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture (111c, 111d, 111f, 111g)",
+        "PA_MATERIA": "Coated Steel",
+        "PA_LOCATIO": "500 West Park Blocks between (100 S and 500 S)",
+        "PA_ADDRESS": "500 W 100 S",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b111.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.90533980104, 40.7664039383713]
+      },
+      "properties": {
+        "FID": 120,
+        "PA_ID": 111,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Day Christensen, Katherine Coles, Bri Matheson, Bonnie Susec",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture (Colored lights on poles) (111a)",
+        "PA_MATERIA": "Polished Stainless Steel and Glass",
+        "PA_LOCATIO": "500 West Park Blocks between (100 S and 500 S)",
+        "PA_ADDRESS": "125 S 500 W",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b111.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.905371931083, 40.7665896653172]
+      },
+      "properties": {
+        "FID": 121,
+        "PA_ID": 111,
+        "PA_TITLE": "Untitled",
+        "PA_ARTIST": "Day Christensen, Katherine Coles, Bri Matheson, Bonnie Sucec",
+        "PA_YEAR": 0,
+        "PA_WORKTYP": "Sculpture (111e)",
+        "PA_MATERIA": "Stone",
+        "PA_LOCATIO": "500 West Park Blocks between (100 S and 500 S)",
+        "PA_ADDRESS": "500 W 100 S",
+        "PA_ZIPCODE": "84101",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b111.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.845544261619, 40.7417455666776]
+      },
+      "properties": {
+        "FID": 122,
+        "PA_ID": 30,
+        "PA_TITLE": "Trees",
+        "PA_ARTIST": "Day Christensen",
+        "PA_YEAR": 2011,
+        "PA_WORKTYP": "Benches, Sculpture",
+        "PA_MATERIA": "Cast bronze",
+        "PA_LOCATIO": "Yale/Harvard Neighborhoods",
+        "PA_ADDRESS": "1571 E 1300 S",
+        "PA_ZIPCODE": "84105",
+        "PA_DESCRIP": " ",
+        "image_link": "https://www.slcdocs.com/gis/sfglib/ced/landmarksites/images/b30.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2947 @@
+{
+  "type": "FeatureCollection",
+  "crs": { "type": "name", "properties": { "name": "EPSG:4326" } },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.895874719117, 40.7631555263431, 0]
+      },
+      "properties": {
+        "FID": 1,
+        "OBJECTID": 1,
+        "POI_CATEGO": "Art Center",
+        "POI_NAME": "Rose Wagner Performing Arts Center",
+        "ADDRESS": "138 W 300 S",
+        "X": -111.89586298,
+        "Y": 40.76314949
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.851171920312, 40.7628528732578, 0]
+      },
+      "properties": {
+        "FID": 2,
+        "OBJECTID": 2,
+        "POI_CATEGO": "Art Center",
+        "POI_NAME": "Pioneer Memorial Theatre",
+        "ADDRESS": "300 S 1400 E",
+        "X": -111.85116019,
+        "Y": 40.76284683
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.850917710561, 40.7661680046248, 0]
+      },
+      "properties": {
+        "FID": 3,
+        "OBJECTID": 3,
+        "POI_CATEGO": "Art Center",
+        "POI_NAME": "Kingsbury Hall",
+        "ADDRESS": "1395 E Presidents Cir #190 (180 S)",
+        "X": -111.85090598,
+        "Y": 40.76616196
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.892813033355, 40.7652821000329, 0]
+      },
+      "properties": {
+        "FID": 4,
+        "OBJECTID": 4,
+        "POI_CATEGO": "Art Center",
+        "POI_NAME": "Janet Quinney Lawson Capitol Theatre",
+        "ADDRESS": "50 W 200 S",
+        "X": -111.8928013,
+        "Y": 40.76527606
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.890484736682, 40.7663000378178, 0]
+      },
+      "properties": {
+        "FID": 5,
+        "OBJECTID": 5,
+        "POI_CATEGO": "Art Center",
+        "POI_NAME": "Eccles Theater",
+        "ADDRESS": "131 S Main Street",
+        "X": -111.890473,
+        "Y": 40.766294
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.895345413785, 40.7685968027134, 0]
+      },
+      "properties": {
+        "FID": 6,
+        "OBJECTID": 6,
+        "POI_CATEGO": "Art Center",
+        "POI_NAME": "Abravanel Hall (The Utah Symphony)",
+        "ADDRESS": "123 W South Temple St (0 S)",
+        "X": -111.89533368,
+        "Y": 40.76859076
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.917319741754, 40.7667820354639, 0]
+      },
+      "properties": {
+        "FID": 7,
+        "OBJECTID": 7,
+        "POI_CATEGO": "Art Center",
+        "POI_NAME": "The Art Castle - Utah Arts Alliance",
+        "ADDRESS": " ",
+        "X": -111.917308,
+        "Y": 40.766776
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.916437738078, 40.7399040327189, 0]
+      },
+      "properties": {
+        "FID": 8,
+        "OBJECTID": 8,
+        "POI_CATEGO": "Cultural Center",
+        "POI_NAME": "Sorenson Unity Center",
+        "ADDRESS": " ",
+        "X": -111.916426,
+        "Y": 40.739898
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.907879739895, 40.7658990360705, 0]
+      },
+      "properties": {
+        "FID": 9,
+        "OBJECTID": 9,
+        "POI_CATEGO": "Cultural Center",
+        "POI_NAME": "Centro Cívico Mexicano",
+        "ADDRESS": " ",
+        "X": -111.907868,
+        "Y": 40.765893
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.904230739193, 40.7685210370813, 0]
+      },
+      "properties": {
+        "FID": 10,
+        "OBJECTID": 10,
+        "POI_CATEGO": "Cultural Center",
+        "POI_NAME": "Utah Cultural Alliance",
+        "ADDRESS": " ",
+        "X": -111.904219,
+        "Y": 40.768515
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.894685106237, 40.768323970107, 0]
+      },
+      "properties": {
+        "FID": 11,
+        "OBJECTID": 11,
+        "POI_CATEGO": "Museum",
+        "POI_NAME": "Utah Museum of Contemporary Art",
+        "ADDRESS": "20 S West Temple St (100 W)",
+        "X": -111.89467337,
+        "Y": 40.76831793
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.843322256306, 40.7602140768016, 0]
+      },
+      "properties": {
+        "FID": 12,
+        "OBJECTID": 12,
+        "POI_CATEGO": "Museum",
+        "POI_NAME": "University of Utah Museum of Fine Arts",
+        "ADDRESS": "410 S Campus Center Dr (1660 E)",
+        "X": -111.84331053,
+        "Y": 40.76020804
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.891071645583, 40.7766833218344, 0]
+      },
+      "properties": {
+        "FID": 13,
+        "OBJECTID": 13,
+        "POI_CATEGO": "Museum",
+        "POI_NAME": "Pioneer Memorial Museum",
+        "ADDRESS": "300 N Main St (0 W)",
+        "X": -111.89105991,
+        "Y": 40.77667728
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.822787207289, 40.7641876596368, 0]
+      },
+      "properties": {
+        "FID": 14,
+        "OBJECTID": 14,
+        "POI_CATEGO": "Museum",
+        "POI_NAME": "Natural History Museum of Utah",
+        "ADDRESS": "301 S Wakara Way (2130 E)",
+        "X": -111.82277548,
+        "Y": 40.76418162
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.83145340665, 40.7612486270262, 0]
+      },
+      "properties": {
+        "FID": 15,
+        "OBJECTID": 15,
+        "POI_CATEGO": "Museum",
+        "POI_NAME": "Fort Douglas Miltary Museum",
+        "ADDRESS": "32 Potter St (275 S)",
+        "X": -111.83144168,
+        "Y": 40.76124258
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.852981611486, 40.7679382788923, 0]
+      },
+      "properties": {
+        "FID": 16,
+        "OBJECTID": 16,
+        "POI_CATEGO": "Museum",
+        "POI_NAME": "Finch Lane Gallery/Art Barn",
+        "ADDRESS": "54 S Finch Ln (1330 E)",
+        "X": -111.85296988,
+        "Y": 40.76793224
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.903857803603, 40.7675617987724, 0]
+      },
+      "properties": {
+        "FID": 17,
+        "OBJECTID": 17,
+        "POI_CATEGO": "Museum",
+        "POI_NAME": "Discovery Gateway Children's Museum",
+        "ADDRESS": "444 W 100 S",
+        "X": -111.90384606,
+        "Y": 40.76755576
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.87459365968, 40.7456132490538, 0]
+      },
+      "properties": {
+        "FID": 18,
+        "OBJECTID": 18,
+        "POI_CATEGO": "Museum",
+        "POI_NAME": "Chase Home Museum of Utah Folk Art",
+        "ADDRESS": "900 S 700 E",
+        "X": -111.87458193,
+        "Y": 40.74560721
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.884616018676, 40.7589204385504, 0]
+      },
+      "properties": {
+        "FID": 19,
+        "OBJECTID": 19,
+        "POI_CATEGO": "Science Center",
+        "POI_NAME": "The Leonardo",
+        "ADDRESS": "209 E 500 S",
+        "X": -111.88460428,
+        "Y": 40.7589144
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.903024078985, 40.7668499027421, 0]
+      },
+      "properties": {
+        "FID": 20,
+        "OBJECTID": 20,
+        "POI_CATEGO": "Science Center",
+        "POI_NAME": "Clark Planetarium",
+        "ADDRESS": "110 S 400 W",
+        "X": -111.90301234,
+        "Y": 40.76684387
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.895563186071, 40.7667989519433, 0]
+      },
+      "properties": {
+        "FID": 21,
+        "OBJECTID": 167,
+        "POI_CATEGO": "Convention Center",
+        "POI_NAME": "Salt Palace Convention Center",
+        "ADDRESS": "100 S West Temple St (100 W)",
+        "X": -111.89555145,
+        "Y": 40.76679291
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.838753255888, 40.762045330082, 0]
+      },
+      "properties": {
+        "FID": 22,
+        "OBJECTID": 168,
+        "POI_CATEGO": "Stadium/Arena",
+        "POI_NAME": "Jon M. Huntsman Center",
+        "ADDRESS": "1825 E South Campus Dr (450 S)",
+        "X": -111.83874153,
+        "Y": 40.76203929
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.848855845219, 40.7599817151129, 0]
+      },
+      "properties": {
+        "FID": 23,
+        "OBJECTID": 169,
+        "POI_CATEGO": "Stadium/Arena",
+        "POI_NAME": "Rice-Eccles Stadium",
+        "ADDRESS": "451 S 1400 E",
+        "X": -111.84884412,
+        "Y": 40.75997568
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.892956490712, 40.7408261683443, 0]
+      },
+      "properties": {
+        "FID": 24,
+        "OBJECTID": 170,
+        "POI_CATEGO": "Stadium/Arena",
+        "POI_NAME": "Smith's Ballpark",
+        "ADDRESS": "77 W 1300 S",
+        "X": -111.89294476,
+        "Y": 40.74082013
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.901132828868, 40.7682844808516, 0]
+      },
+      "properties": {
+        "FID": 25,
+        "OBJECTID": 171,
+        "POI_CATEGO": "Stadium/Arena",
+        "POI_NAME": "Vivint Smart Home Arena",
+        "ADDRESS": "301 W South Temple St (0 S)",
+        "X": -111.90112109,
+        "Y": 40.76827844
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.920357744332, 40.7738920358499, 0]
+      },
+      "properties": {
+        "FID": 26,
+        "OBJECTID": 172,
+        "POI_CATEGO": "Stadium/Arena",
+        "POI_NAME": "Utah State Fairpark",
+        "ADDRESS": "155 N 1000 W",
+        "X": -111.920346,
+        "Y": 40.773886
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.89115559135, 40.7650131312949, 0]
+      },
+      "properties": {
+        "FID": 27,
+        "OBJECTID": 173,
+        "POI_CATEGO": "Commercial Center",
+        "POI_NAME": "Downtown",
+        "ADDRESS": "200 S Main St (0 W)",
+        "X": -111.89114386,
+        "Y": 40.76500709
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.859673567177, 40.7253947788036, 0]
+      },
+      "properties": {
+        "FID": 28,
+        "OBJECTID": 174,
+        "POI_CATEGO": "Commercial Center",
+        "POI_NAME": "Sugar House",
+        "ADDRESS": "1100 E 2100 S",
+        "X": -111.85966184,
+        "Y": 40.72538874
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.865365728501, 40.749797037975, 0]
+      },
+      "properties": {
+        "FID": 29,
+        "OBJECTID": 175,
+        "POI_CATEGO": "Commercial Center",
+        "POI_NAME": "9th & 9th",
+        "ADDRESS": "900 S 900 E",
+        "X": -111.865354,
+        "Y": 40.749791
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.916471742905, 40.7715310366469, 0]
+      },
+      "properties": {
+        "FID": 30,
+        "OBJECTID": 176,
+        "POI_CATEGO": "Commercial Center",
+        "POI_NAME": "North Temple Business District",
+        "ADDRESS": "W North Temple St",
+        "X": -111.91646,
+        "Y": 40.771525
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.900854737405, 40.7541560356534, 0]
+      },
+      "properties": {
+        "FID": 31,
+        "OBJECTID": 177,
+        "POI_CATEGO": "Commercial Center",
+        "POI_NAME": "Grainery District",
+        "ADDRESS": "330 S 700 W",
+        "X": -111.900843,
+        "Y": 40.75415
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.901137980706, 40.7624789845666, 0]
+      },
+      "properties": {
+        "FID": 32,
+        "OBJECTID": 178,
+        "POI_CATEGO": "Market",
+        "POI_NAME": "Downtown Farmers Market",
+        "ADDRESS": "350 W 300 S",
+        "X": -111.90112624,
+        "Y": 40.76247295
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.9201230936, 40.7477196644248, 0]
+      },
+      "properties": {
+        "FID": 33,
+        "OBJECTID": 179,
+        "POI_CATEGO": "Market",
+        "POI_NAME": "People's Market",
+        "ADDRESS": "1060 S 900 W",
+        "X": -111.92011135,
+        "Y": 40.74771363
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.86024704357, 40.7252447842279, 0]
+      },
+      "properties": {
+        "FID": 34,
+        "OBJECTID": 180,
+        "POI_CATEGO": "Market",
+        "POI_NAME": "Sugar House Market",
+        "ADDRESS": "1052-1074 E 2100 S",
+        "X": -111.86023532,
+        "Y": 40.72523875
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.88539931457, 40.7595890057979, 0]
+      },
+      "properties": {
+        "FID": 35,
+        "OBJECTID": 181,
+        "POI_CATEGO": "Market",
+        "POI_NAME": "Utah Arts Festival",
+        "ADDRESS": "200 E (400 S - 500 S)",
+        "X": -111.88538758,
+        "Y": 40.75958297
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.922705962942, 40.7727735628285, 0]
+      },
+      "properties": {
+        "FID": 36,
+        "OBJECTID": 182,
+        "POI_CATEGO": "Market",
+        "POI_NAME": "Utah State Fairpark",
+        "ADDRESS": "155 N 1000 W",
+        "X": -111.92269422,
+        "Y": 40.77276753
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.857445307793, 40.7020281117809, 0]
+      },
+      "properties": {
+        "FID": 37,
+        "OBJECTID": 183,
+        "POI_CATEGO": "Shopping Center",
+        "POI_NAME": "Brickyard",
+        "ADDRESS": "1250 E Brickyard Rd (3190 S)",
+        "X": -111.85743359,
+        "Y": 40.70202208
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.892562294694, 40.7682867579664, 0]
+      },
+      "properties": {
+        "FID": 38,
+        "OBJECTID": 184,
+        "POI_CATEGO": "Shopping Center",
+        "POI_NAME": "City Creek Center",
+        "ADDRESS": "50 S Main St (0 W)",
+        "X": -111.89255056,
+        "Y": 40.76828072
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.826628372901, 40.7395187857738, 0]
+      },
+      "properties": {
+        "FID": 39,
+        "OBJECTID": 185,
+        "POI_CATEGO": "Shopping Center",
+        "POI_NAME": "Foothill Village",
+        "ADDRESS": "1400 S Foothill Dr (2210 E)",
+        "X": -111.82661665,
+        "Y": 40.73951275
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.903788898329, 40.7683748938835, 0]
+      },
+      "properties": {
+        "FID": 40,
+        "OBJECTID": 186,
+        "POI_CATEGO": "Shopping Center",
+        "POI_NAME": "The Gateway",
+        "ADDRESS": "90 S 400 W",
+        "X": -111.90377716,
+        "Y": 40.76836886
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.872446643032, 40.7573536491151, 0]
+      },
+      "properties": {
+        "FID": 41,
+        "OBJECTID": 187,
+        "POI_CATEGO": "Shopping Center",
+        "POI_NAME": "Trolley Square",
+        "ADDRESS": "600 S 700 E",
+        "X": -111.87243491,
+        "Y": 40.75734761
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.939818726272, 40.6227080174395, 0]
+      },
+      "properties": {
+        "FID": 42,
+        "OBJECTID": 188,
+        "POI_CATEGO": "Shopping Center",
+        "POI_NAME": "Redwood Village Shopping Center",
+        "ADDRESS": "7046 S Redwood Rd",
+        "X": -111.939807,
+        "Y": 40.622702
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.848857818817, 40.7588243377711, 0]
+      },
+      "properties": {
+        "FID": 43,
+        "OBJECTID": 189,
+        "POI_CATEGO": "Recreation",
+        "POI_NAME": "Salt Lake 2002 Olympic Cauldron Park",
+        "ADDRESS": "451 S 1400 E",
+        "X": -111.84884609,
+        "Y": 40.7588183
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.844128602071, 40.7554143675469, 0]
+      },
+      "properties": {
+        "FID": 44,
+        "OBJECTID": 190,
+        "POI_CATEGO": "Recreation",
+        "POI_NAME": "Steiner Aquatic Center",
+        "ADDRESS": "645 S Guardsman Way (1600 E)",
+        "X": -111.84411688,
+        "Y": 40.75540833
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.916437738078, 40.7399040327189, 0]
+      },
+      "properties": {
+        "FID": 45,
+        "OBJECTID": 191,
+        "POI_CATEGO": "Recreation",
+        "POI_NAME": "Sorenson Multicultural Center",
+        "ADDRESS": "855 California Ave",
+        "X": -111.916426,
+        "Y": 40.739898
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.882104733384, 40.7556890373523, 0]
+      },
+      "properties": {
+        "FID": 46,
+        "OBJECTID": 192,
+        "POI_CATEGO": "Recreation",
+        "POI_NAME": "Central City Recreation Center",
+        "ADDRESS": "615 S 300 E",
+        "X": -111.882093,
+        "Y": 40.755683
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.876158730619, 40.74613603638, 0]
+      },
+      "properties": {
+        "FID": 47,
+        "OBJECTID": 193,
+        "POI_CATEGO": "Recreation",
+        "POI_NAME": "Liberty Park Tennis Center",
+        "ADDRESS": "1105 S Constitution Dr",
+        "X": -111.876147,
+        "Y": 40.74613
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.927828745987, 40.7764770356799, 0]
+      },
+      "properties": {
+        "FID": 48,
+        "OBJECTID": 194,
+        "POI_CATEGO": "Recreation",
+        "POI_NAME": "Northwest Recreation Center",
+        "ADDRESS": "1300 W 300 N",
+        "X": -111.927817,
+        "Y": 40.776471
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.861138724796, 40.7221590354258, 0]
+      },
+      "properties": {
+        "FID": 49,
+        "OBJECTID": 195,
+        "POI_CATEGO": "Recreation",
+        "POI_NAME": "Fairmont Aquatic Center",
+        "ADDRESS": "1044 Sugarmont Dr",
+        "X": -111.861127,
+        "Y": 40.722153
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.902797737669, 40.7549730360559, 0]
+      },
+      "properties": {
+        "FID": 50,
+        "OBJECTID": 196,
+        "POI_CATEGO": "Recreation",
+        "POI_NAME": "Bouldering Project",
+        "ADDRESS": "660 S 400 W",
+        "X": -111.902786,
+        "Y": 40.754967
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.903246735411, 40.7378120338852, 0]
+      },
+      "properties": {
+        "FID": 51,
+        "OBJECTID": 197,
+        "POI_CATEGO": "Recreation",
+        "POI_NAME": "The Front Climbing Club",
+        "ADDRESS": "1470 400 W",
+        "X": -111.903235,
+        "Y": 40.737806
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.870456730947, 40.7579530384753, 0]
+      },
+      "properties": {
+        "FID": 52,
+        "OBJECTID": 198,
+        "POI_CATEGO": "Recreation",
+        "POI_NAME": "EoS",
+        "ADDRESS": "515 S 700 E",
+        "X": -111.870445,
+        "Y": 40.757947
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.858186721533, 40.7012950328767, 0]
+      },
+      "properties": {
+        "FID": 53,
+        "OBJECTID": 199,
+        "POI_CATEGO": "Recreation",
+        "POI_NAME": "VASA",
+        "ADDRESS": "1172 Brickyard Rd",
+        "X": -111.858175,
+        "Y": 40.701289
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.885841734847, 40.7609070377283, 0]
+      },
+      "properties": {
+        "FID": 54,
+        "OBJECTID": 200,
+        "POI_CATEGO": "Recreation",
+        "POI_NAME": "Planet Fitness",
+        "ADDRESS": "175 E 400 S",
+        "X": -111.88583,
+        "Y": 40.760901
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.982065417005, 40.7866946315398, 0]
+      },
+      "properties": {
+        "FID": 55,
+        "OBJECTID": 201,
+        "POI_CATEGO": "Airport",
+        "POI_NAME": "Salt Lake City International Airport",
+        "ADDRESS": "776 N Terminal Dr (4000 W)",
+        "X": -111.98205366,
+        "Y": 40.7866886
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.908609466553, 40.7635264018471, 0]
+      },
+      "properties": {
+        "FID": 56,
+        "OBJECTID": 202,
+        "POI_CATEGO": "Transportation",
+        "POI_NAME": "Salt Lake Intermodal Hub",
+        "ADDRESS": "250 S 600 W",
+        "X": -111.90859773,
+        "Y": 40.76352037
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.978495929782, 40.7763139285818, 0]
+      },
+      "properties": {
+        "FID": 57,
+        "OBJECTID": 212,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Airport Mail Center",
+        "ADDRESS": "320 N 3700 W",
+        "X": -111.97848417,
+        "Y": 40.7763079
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.884908004381, 40.7620667309801, 0]
+      },
+      "properties": {
+        "FID": 58,
+        "OBJECTID": 213,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "CIty Courts Building",
+        "ADDRESS": "333 S 200 E",
+        "X": -111.88489627,
+        "Y": 40.76206069
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.888715688885, 40.7667867632883, 0]
+      },
+      "properties": {
+        "FID": 59,
+        "OBJECTID": 214,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Federal Reserve Bank of San Francisco",
+        "ADDRESS": "120 S State St (100 E)",
+        "X": -111.88870394999999,
+        "Y": 40.76678072
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.826212677503, 40.7514334244477, 0]
+      },
+      "properties": {
+        "FID": 60,
+        "OBJECTID": 215,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Foothill Post Office",
+        "ADDRESS": "2255 E Sunnyside Ave (840 S)",
+        "X": -111.82620096,
+        "Y": 40.75142738
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.891740161038, 40.7613254385844, 0]
+      },
+      "properties": {
+        "FID": 61,
+        "OBJECTID": 216,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Frank E. Moss Federal Courthouse",
+        "ADDRESS": "350 S Main St (0 W)",
+        "X": -111.89172842,
+        "Y": 40.7613194
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.886064202627, 40.7679754912281, 0]
+      },
+      "properties": {
+        "FID": 62,
+        "OBJECTID": 217,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Internal Revenue Service (IRS) Taxpayer Assistance Center",
+        "ADDRESS": "178 S Rio Grande Street",
+        "X": -111.88605247,
+        "Y": 40.76796945
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.940463428287, 40.7272215129045, 0]
+      },
+      "properties": {
+        "FID": 63,
+        "OBJECTID": 218,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Main Post Office",
+        "ADDRESS": "1760 W 2100 S",
+        "X": -111.94045169,
+        "Y": 40.72721548
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.940146336467, 40.7870692035613, 0]
+      },
+      "properties": {
+        "FID": 64,
+        "OBJECTID": 219,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Northwest Post Office",
+        "ADDRESS": "801 N Redwood Rd (1700 W)",
+        "X": -111.94013459,
+        "Y": 40.78706317
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.881662193631, 40.7591657758276, 0]
+      },
+      "properties": {
+        "FID": 65,
+        "OBJECTID": 220,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Public Safety Building",
+        "ADDRESS": "475 S 300 E",
+        "X": -111.88165046,
+        "Y": 40.75915974
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.889010188974, 40.759595353567, 0]
+      },
+      "properties": {
+        "FID": 66,
+        "OBJECTID": 221,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Third District Courthouse",
+        "ADDRESS": "450 S State St (100 E)",
+        "X": -111.88899845,
+        "Y": 40.75958932
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.858872649931, 40.727695076051, 0]
+      },
+      "properties": {
+        "FID": 67,
+        "OBJECTID": 222,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Sugarhouse Post Office",
+        "ADDRESS": "1953 S 1100 E",
+        "X": -111.85886093,
+        "Y": 40.72768904
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.893053344371, 40.761293703281, 0]
+      },
+      "properties": {
+        "FID": 68,
+        "OBJECTID": 223,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "United States Courthouse for the Utah District",
+        "ADDRESS": "351 S West Temple St (100 W)",
+        "X": -111.89304161,
+        "Y": 40.76128767
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.888354686515, 40.7773976103987, 0]
+      },
+      "properties": {
+        "FID": 69,
+        "OBJECTID": 224,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Utah State Capitol Building",
+        "ADDRESS": "350 N State St (100 E)",
+        "X": -111.88834295,
+        "Y": 40.77739157
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.887357434378, 40.7666038910129, 0]
+      },
+      "properties": {
+        "FID": 70,
+        "OBJECTID": 225,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Wallace E. Bennett Federal Building",
+        "ADDRESS": "125 S State St (100 E)",
+        "X": -111.8873457,
+        "Y": 40.76659785
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.933508746816, 40.775773035801, 0]
+      },
+      "properties": {
+        "FID": 71,
+        "OBJECTID": 226,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Utah Department of Health & Human Services (Fairpark)",
+        "ADDRESS": "288 N 1460 W",
+        "X": -111.933497,
+        "Y": 40.775767
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.947733749003, 40.7744220349407, 0]
+      },
+      "properties": {
+        "FID": 72,
+        "OBJECTID": 227,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Utah Department of Health & Human Services (Redwood)",
+        "ADDRESS": "195 N 1950 W",
+        "X": -111.947722,
+        "Y": 40.774416
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.885575732912, 40.753751036911, 0]
+      },
+      "properties": {
+        "FID": 73,
+        "OBJECTID": 228,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Utah Department of Workforce Services",
+        "ADDRESS": "720 S 200 E",
+        "X": -111.885564,
+        "Y": 40.753745
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.886897735007, 40.7626430380477, 0]
+      },
+      "properties": {
+        "FID": 74,
+        "OBJECTID": 229,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Utah Department of Workforce Services (Downtown)",
+        "ADDRESS": "140 E Broadway",
+        "X": -111.886886,
+        "Y": 40.762637
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.904178739315, 40.7646720362505, 0]
+      },
+      "properties": {
+        "FID": 75,
+        "OBJECTID": 230,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Utah State Archives and Records Service",
+        "ADDRESS": "346 S Rio Grande St",
+        "X": -111.904167,
+        "Y": 40.764666
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.888160734855, 40.759550037328, 0]
+      },
+      "properties": {
+        "FID": 76,
+        "OBJECTID": 231,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Salt Lake City & County Building",
+        "ADDRESS": "451 State St",
+        "X": -111.888149,
+        "Y": 40.759544
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.888137730797, 40.7266160334317, 0]
+      },
+      "properties": {
+        "FID": 77,
+        "OBJECTID": 232,
+        "POI_CATEGO": "Government",
+        "POI_NAME": "Salt Lake County Government Center",
+        "ADDRESS": "2001 S State St",
+        "X": -111.888126,
+        "Y": 40.72661
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.901345801455, 40.7636379822464, 0]
+      },
+      "properties": {
+        "FID": 78,
+        "OBJECTID": 233,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Artspace / Former Free Farmers Market",
+        "ADDRESS": "331 W Pierpont Ave (240 S)",
+        "X": -111.90133406,
+        "Y": 40.76363194
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.888691913174, 40.7696367998129, 0]
+      },
+      "properties": {
+        "FID": 79,
+        "OBJECTID": 234,
+        "POI_CATEGO": "Historical SIte",
+        "POI_NAME": "Beehive House",
+        "ADDRESS": "67 E South Temple St (0 S)",
+        "X": -111.88868018,
+        "Y": 40.76963076
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.890779115499, 40.7616184047775, 0]
+      },
+      "properties": {
+        "FID": 80,
+        "OBJECTID": 235,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Boston Building",
+        "ADDRESS": "9 E Exchange Pl (355 S)",
+        "X": -111.89076738,
+        "Y": 40.76161237
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.887768072261, 40.7712597767296, 0]
+      },
+      "properties": {
+        "FID": 81,
+        "OBJECTID": 236,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "Brigham Young Historial Park",
+        "ADDRESS": "80 N State St (100 E)",
+        "X": -111.88775634,
+        "Y": 40.77125374
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.891142390607, 40.76959062844, 0]
+      },
+      "properties": {
+        "FID": 82,
+        "OBJECTID": 237,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "Brigham Young Monument",
+        "ADDRESS": "Main St (0 W) & South Temple St (0 S)",
+        "X": -111.89113065,
+        "Y": 40.76958459
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.895876438492, 40.7625339884415, 0]
+      },
+      "properties": {
+        "FID": 83,
+        "OBJECTID": 238,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Broadway Lofts / Former J.G. McDonald Chocolate Co",
+        "ADDRESS": "159 W Broadway Ave (300 S)",
+        "X": -111.8958647,
+        "Y": 40.76252795
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.890006802408, 40.7612306034561, 0]
+      },
+      "properties": {
+        "FID": 84,
+        "OBJECTID": 239,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Commercial Club Building",
+        "ADDRESS": "32 E Exchange Pl (355 S)",
+        "X": -111.88999507,
+        "Y": 40.76122457
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.887748773754, 40.7755626971697, 0]
+      },
+      "properties": {
+        "FID": 85,
+        "OBJECTID": 240,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "Council Hall",
+        "ADDRESS": "120 E 300 N",
+        "X": -111.88773704,
+        "Y": 40.77555666
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.900083484326, 40.7646755980503, 0]
+      },
+      "properties": {
+        "FID": 86,
+        "OBJECTID": 241,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Crane Building",
+        "ADDRESS": "307 W 200 S",
+        "X": -111.90007175,
+        "Y": 40.76466956
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.902140696395, 40.765435912407, 0]
+      },
+      "properties": {
+        "FID": 87,
+        "OBJECTID": 242,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Dakota Lofts / Former Salt Lake Stamp Company",
+        "ADDRESS": "380 W 200 S",
+        "X": -111.90212896,
+        "Y": 40.76542987
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.89151217311, 40.7636678895772, 0]
+      },
+      "properties": {
+        "FID": 88,
+        "OBJECTID": 243,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "David Keith Building",
+        "ADDRESS": "242 S Main St (0 W)",
+        "X": -111.89150044,
+        "Y": 40.76366185
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.901037476293, 40.7700800368293, 0]
+      },
+      "properties": {
+        "FID": 89,
+        "OBJECTID": 244,
+        "POI_CATEGO": "Historical",
+        "POI_NAME": "Devereaux House",
+        "ADDRESS": "340 W South Temple St (0 S)",
+        "X": -111.90102574,
+        "Y": 40.770074
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.888264472304, 40.7696436439444, 0]
+      },
+      "properties": {
+        "FID": 90,
+        "OBJECTID": 245,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "Eagle Gate",
+        "ADDRESS": "South Temple St (0 S) & State St (100 E)",
+        "X": -111.88825274,
+        "Y": 40.76963761
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.891165212306, 40.7945970182504, 0]
+      },
+      "properties": {
+        "FID": 91,
+        "OBJECTID": 246,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "Ensign Peak (Elevation 5414 ft)",
+        "ADDRESS": "1002 N Ensign Vista Dr (75 E)",
+        "X": -111.89115347,
+        "Y": 40.79459098
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.890458741234, 40.7614965719045, 0]
+      },
+      "properties": {
+        "FID": 92,
+        "OBJECTID": 247,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "Exchange Place Historic District",
+        "ADDRESS": "355 S (0 E - 100 E)",
+        "X": -111.89044701,
+        "Y": 40.76149054
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.90008993962, 40.7632059696374, 0]
+      },
+      "properties": {
+        "FID": 93,
+        "OBJECTID": 248,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Firestone Tire & Rubber Company Building",
+        "ADDRESS": "308 W 300 S",
+        "X": -111.9000782,
+        "Y": 40.76319993
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.877029719153, 40.7333265148563, 0]
+      },
+      "properties": {
+        "FID": 94,
+        "OBJECTID": 249,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "First Encampment Park",
+        "ADDRESS": "1704 S 500 E",
+        "X": -111.87701799,
+        "Y": 40.73332048
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.824181620782, 40.7602995636365, 0]
+      },
+      "properties": {
+        "FID": 95,
+        "OBJECTID": 250,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "Fort Douglas Cemetery",
+        "ADDRESS": "405 S Chipeta Way (2250 E)",
+        "X": -111.8241699,
+        "Y": 40.76029352
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.889454157049, 40.7698187725107, 0]
+      },
+      "properties": {
+        "FID": 96,
+        "OBJECTID": 251,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "LDS Church Administration Building",
+        "ADDRESS": "47 E South Temple St (0 S)",
+        "X": -111.88944242,
+        "Y": 40.76981273
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.889022920797, 40.7697835763437, 0]
+      },
+      "properties": {
+        "FID": 97,
+        "OBJECTID": 252,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "Lion House",
+        "ADDRESS": "63 E South Temple St (0 S)",
+        "X": -111.88901118,
+        "Y": 40.76977754
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.884760209958, 40.776608073577, 0]
+      },
+      "properties": {
+        "FID": 98,
+        "OBJECTID": 253,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "Memory Grove Park",
+        "ADDRESS": "300 N Canyon Rd (130 E)",
+        "X": -111.88474847,
+        "Y": 40.77660203
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.885643229627, 40.7703535663609, 0]
+      },
+      "properties": {
+        "FID": 99,
+        "OBJECTID": 254,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "Mormon Pioneer Memorial Monument (Brigham Young's Burial Site)",
+        "ADDRESS": "140 E 1st Ave (50 N)",
+        "X": -111.88563149,
+        "Y": 40.77034753
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.88885031221, 40.767595067318, 0]
+      },
+      "properties": {
+        "FID": 100,
+        "OBJECTID": 255,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Mountain States Telephone & Telegraph Building",
+        "ADDRESS": "70 S State St (100 E)",
+        "X": -111.88883858,
+        "Y": 40.76758903
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.890669726749, 40.7609758146035, 0]
+      },
+      "properties": {
+        "FID": 101,
+        "OBJECTID": 256,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "New Grand Hotel",
+        "ADDRESS": "7 E 400 S",
+        "X": -111.89065799,
+        "Y": 40.76096978
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.890792367446, 40.7612968842285, 0]
+      },
+      "properties": {
+        "FID": 102,
+        "OBJECTID": 257,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Newhouse Building",
+        "ADDRESS": "10 E Exchange Pl (355 S)",
+        "X": -111.89078063,
+        "Y": 40.76129085
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.892106302669, 40.7620315518001, 0]
+      },
+      "properties": {
+        "FID": 103,
+        "OBJECTID": 258,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Odd Fellow Hall",
+        "ADDRESS": "26 W Market St (340 S)",
+        "X": -111.89209457,
+        "Y": 40.76202551
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.903960825095, 40.7692078965533, 0]
+      },
+      "properties": {
+        "FID": 104,
+        "OBJECTID": 259,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "Olympic Legacy Plaza",
+        "ADDRESS": "90 S 400 W",
+        "X": -111.90394909,
+        "Y": 40.76920186
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.895976098488, 40.76466653264, 0]
+      },
+      "properties": {
+        "FID": 105,
+        "OBJECTID": 260,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Patrick Dry Goods Building",
+        "ADDRESS": "163 W 200 S",
+        "X": -111.89596436,
+        "Y": 40.7646605
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.901113838482, 40.7617550343461, 0]
+      },
+      "properties": {
+        "FID": 106,
+        "OBJECTID": 261,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "Pioneer Park",
+        "ADDRESS": "350 S 300 W",
+        "X": -111.9011021,
+        "Y": 40.761749
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.889385181706, 40.7655938651728, 0]
+      },
+      "properties": {
+        "FID": 107,
+        "OBJECTID": 262,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Plum Alley",
+        "ADDRESS": "65 E (130 S 200 S)",
+        "X": -111.88937345,
+        "Y": 40.76558783
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.889882704643, 40.7661250047546, 0]
+      },
+      "properties": {
+        "FID": 108,
+        "OBJECTID": 263,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Regent Street",
+        "ADDRESS": "40 E (100 S - 200 S)",
+        "X": -111.88987097,
+        "Y": 40.76611897
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.904640506609, 40.7627940689255, 0]
+      },
+      "properties": {
+        "FID": 109,
+        "OBJECTID": 264,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "Rio Grande Railroad Depot & Utah State Historical Society",
+        "ADDRESS": "300 S Rio Grande St (455 W)",
+        "X": -111.90462877,
+        "Y": 40.76278803
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.886791576598, 40.7596464561814, 0]
+      },
+      "properties": {
+        "FID": 110,
+        "OBJECTID": 265,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "Salt Lake City & County Building",
+        "ADDRESS": "451 S State St (100 E)",
+        "X": -111.88677984,
+        "Y": 40.75964042
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.903043595782, 40.772099977609, 0]
+      },
+      "properties": {
+        "FID": 111,
+        "OBJECTID": 266,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Salt Lake Hardware Co. Warehouse",
+        "ADDRESS": "155 N 400 W",
+        "X": -111.90303186,
+        "Y": 40.77209394
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.894991783889, 40.764187628339, 0]
+      },
+      "properties": {
+        "FID": 112,
+        "OBJECTID": 267,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Salt Lake High School Building",
+        "ADDRESS": "122 W Pierpont Ave (240 S)",
+        "X": -111.89498005,
+        "Y": 40.76418159
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.887838560367, 40.7682410550938, 0]
+      },
+      "properties": {
+        "FID": 113,
+        "OBJECTID": 268,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "Social Hall Heritage Museum",
+        "ADDRESS": "51 S State St (100 E)",
+        "X": -111.88782682,
+        "Y": 40.76823502
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.895653102041, 40.7625484041576, 0]
+      },
+      "properties": {
+        "FID": 114,
+        "OBJECTID": 269,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Sqatters Pub Brewery Building / Former Garden Hotel",
+        "ADDRESS": "147 W Broadway Ave (300 S)",
+        "X": -111.89564137,
+        "Y": 40.76254237
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.816356287646, 40.7521050312956, 0]
+      },
+      "properties": {
+        "FID": 115,
+        "OBJECTID": 270,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "This is the Place Heritage Park",
+        "ADDRESS": "2601 E Sunnyside Ave (840 S)",
+        "X": -111.81634457,
+        "Y": 40.75209899
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.90307564857, 40.7693303452803, 0]
+      },
+      "properties": {
+        "FID": 116,
+        "OBJECTID": 271,
+        "POI_CATEGO": "Historical Site",
+        "POI_NAME": "Union Pacific Railroad Depot",
+        "ADDRESS": "2 S 400 W",
+        "X": -111.90306391,
+        "Y": 40.76932431
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.874132327171, 40.7698026922447, 0]
+      },
+      "properties": {
+        "FID": 117,
+        "OBJECTID": 272,
+        "POI_CATEGO": "Historical SIte",
+        "POI_NAME": "Utah's Historic Governor's Mansion",
+        "ADDRESS": "603 E South Temple St (0 S)",
+        "X": -111.87412059,
+        "Y": 40.76979665
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.900833445536, 40.765392377969, 0]
+      },
+      "properties": {
+        "FID": 118,
+        "OBJECTID": 273,
+        "POI_CATEGO": "Historical Heritage Site",
+        "POI_NAME": "Westgate Fine Arts Center / Former Kahn Brothers Grocery",
+        "ADDRESS": "342 W 200 S",
+        "X": -111.90082171,
+        "Y": 40.76538634
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.849962884059, 40.7575123491757, 0]
+      },
+      "properties": {
+        "FID": 119,
+        "OBJECTID": 274,
+        "POI_CATEGO": "Cemetery",
+        "POI_NAME": "Mount Olivet Cemetery",
+        "ADDRESS": "1342 E 500 S",
+        "X": -111.84995116,
+        "Y": 40.75750631
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.859381082907, 40.7763307997781, 0]
+      },
+      "properties": {
+        "FID": 120,
+        "OBJECTID": 275,
+        "POI_CATEGO": "Cemetery",
+        "POI_NAME": "Salt Lake City Cemetery",
+        "ADDRESS": "200 N N Street (850 E)",
+        "X": -111.85936935,
+        "Y": 40.77632476
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.92028665166, 40.7481192833963, 0]
+      },
+      "properties": {
+        "FID": 121,
+        "OBJECTID": 276,
+        "POI_CATEGO": "Garden/Nature Center",
+        "POI_NAME": "International Peace Gardens",
+        "ADDRESS": "1060 S 900 W",
+        "X": -111.92027491,
+        "Y": 40.74811325
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.823846738726, 40.7654407614338, 0]
+      },
+      "properties": {
+        "FID": 122,
+        "OBJECTID": 277,
+        "POI_CATEGO": "Garden/Nature Center",
+        "POI_NAME": "Red Butte Gardens & Arboretum",
+        "ADDRESS": "300 S Wakara Way (2130 E)",
+        "X": -111.82383502,
+        "Y": 40.76543472
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.82510436575, 40.7471130423512, 0]
+      },
+      "properties": {
+        "FID": 123,
+        "OBJECTID": 278,
+        "POI_CATEGO": "Golf Course",
+        "POI_NAME": "Bonneville Golf Course",
+        "ADDRESS": "954 S Connor St (2140 E)",
+        "X": -111.82509265,
+        "Y": 40.747107
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.82054324715, 40.7166381256369, 0]
+      },
+      "properties": {
+        "FID": 124,
+        "OBJECTID": 279,
+        "POI_CATEGO": "Golf Course",
+        "POI_NAME": "Country Club Golf Course",
+        "ADDRESS": "2400 E Country Club Dr (2410 S)",
+        "X": -111.82053153,
+        "Y": 40.71663209
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.86455419227, 40.7186863516554, 0]
+      },
+      "properties": {
+        "FID": 125,
+        "OBJECTID": 280,
+        "POI_CATEGO": "Golf Course",
+        "POI_NAME": "Forrest Dale Golf Course",
+        "ADDRESS": "2375 S 900 E",
+        "X": -111.86454247,
+        "Y": 40.71868032
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.935677224216, 40.7270371076326, 0]
+      },
+      "properties": {
+        "FID": 126,
+        "OBJECTID": 281,
+        "POI_CATEGO": "Golf Course",
+        "POI_NAME": "Glendale Golf Course",
+        "ADDRESS": "2100 S 1640 W",
+        "X": -111.93566548,
+        "Y": 40.72703108
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.872579477811, 40.7094785557567, 0]
+      },
+      "properties": {
+        "FID": 127,
+        "OBJECTID": 282,
+        "POI_CATEGO": "Golf Course",
+        "POI_NAME": "Nibley Park Golf Course",
+        "ADDRESS": "2730 S 700 E",
+        "X": -111.87256775,
+        "Y": 40.70947252
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.937009259594, 40.7999064354711, 0]
+      },
+      "properties": {
+        "FID": 128,
+        "OBJECTID": 283,
+        "POI_CATEGO": "Golf Course",
+        "POI_NAME": "Rose Park Golf Course",
+        "ADDRESS": "1385 N Redwood Rd (1700 W)",
+        "X": -111.93699751,
+        "Y": 40.7999004
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.862968805032, 40.7830596130631, 0]
+      },
+      "properties": {
+        "FID": 129,
+        "OBJECTID": 284,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "11th Ave Park",
+        "ADDRESS": "581 N Terrace Hills Dr (890 E)",
+        "X": -111.86295707,
+        "Y": 40.78305357
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.924647142321, 40.7345802997726, 0]
+      },
+      "properties": {
+        "FID": 130,
+        "OBJECTID": 285,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "17th South River Park",
+        "ADDRESS": "1200 W 1700 S",
+        "X": -111.9246354,
+        "Y": 40.73457427
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.920525339421, 40.7510611109015, 0]
+      },
+      "properties": {
+        "FID": 131,
+        "OBJECTID": 286,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "9th South River Park",
+        "ADDRESS": "1000 W 900 S",
+        "X": -111.9205136,
+        "Y": 40.75105508
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.88770689699, 40.7721747221042, 0]
+      },
+      "properties": {
+        "FID": 132,
+        "OBJECTID": 287,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "City Creek Park",
+        "ADDRESS": "110 N State St (100 E)",
+        "X": -111.88769516,
+        "Y": 40.77216868
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.929324600835, 40.7761502428585, 0]
+      },
+      "properties": {
+        "FID": 133,
+        "OBJECTID": 288,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Constitution Park",
+        "ADDRESS": "1300 W 300 N",
+        "X": -111.92931286,
+        "Y": 40.77614421
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.936137154455, 40.7768594141375, 0]
+      },
+      "properties": {
+        "FID": 134,
+        "OBJECTID": 289,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Cottonwood Park",
+        "ADDRESS": "1580 W North Star Dr (300 N)",
+        "X": -111.93612541,
+        "Y": 40.77685338
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.829162659557, 40.727555430837, 0]
+      },
+      "properties": {
+        "FID": 135,
+        "OBJECTID": 290,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Dilworth Park",
+        "ADDRESS": "1953 S 2100 E",
+        "X": -111.82915094,
+        "Y": 40.72754939
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.811791968349, 40.7484966270086, 0]
+      },
+      "properties": {
+        "FID": 136,
+        "OBJECTID": 291,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Donnor Trail Park",
+        "ADDRESS": "2903 E Kennedy Dr (985 S)",
+        "X": -111.81178025,
+        "Y": 40.74849058
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.861434550799, 40.721272885534, 0]
+      },
+      "properties": {
+        "FID": 137,
+        "OBJECTID": 292,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Fairmont Park",
+        "ADDRESS": "1040 E Sugarmont Dr (2225 S)",
+        "X": -111.86142283,
+        "Y": 40.72126685
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.92941876404, 40.7326581777331, 0]
+      },
+      "properties": {
+        "FID": 138,
+        "OBJECTID": 293,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Glendale Park",
+        "ADDRESS": "1375 W 1700 S",
+        "X": -111.92940702,
+        "Y": 40.73265215
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.869639458075, 40.7407914441537, 0]
+      },
+      "properties": {
+        "FID": 139,
+        "OBJECTID": 294,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Herman Franks Park",
+        "ADDRESS": "1351 S 700 E",
+        "X": -111.86962773,
+        "Y": 40.74078541
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.894561923855, 40.7451029081921, 0]
+      },
+      "properties": {
+        "FID": 140,
+        "OBJECTID": 295,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Jefferson Park",
+        "ADDRESS": "110 W Fremont Ave (1115 S)",
+        "X": -111.89455019,
+        "Y": 40.74509687
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.918130002377, 40.7467228554193, 0]
+      },
+      "properties": {
+        "FID": 141,
+        "OBJECTID": 296,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Jordan Park",
+        "ADDRESS": "1060 S 900 W",
+        "X": -111.91811826,
+        "Y": 40.74671682
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.925816088559, 40.7635242647303, 0]
+      },
+      "properties": {
+        "FID": 142,
+        "OBJECTID": 297,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Jordan River Parkway",
+        "ADDRESS": "1200 W 300 S",
+        "X": -111.92580435,
+        "Y": 40.76351823
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.873901807791, 40.7859874486364, 0]
+      },
+      "properties": {
+        "FID": 143,
+        "OBJECTID": 298,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Kay Rees Park",
+        "ADDRESS": "535 E 14th Ave (700 N)",
+        "X": -111.87389007,
+        "Y": 40.78598141
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.87392051341, 40.7458300308816, 0]
+      },
+      "properties": {
+        "FID": 144,
+        "OBJECTID": 299,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Liberty Park",
+        "ADDRESS": "600 E 900 S",
+        "X": -111.87390878,
+        "Y": 40.74582399
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.864480489992, 40.7791095792284, 0]
+      },
+      "properties": {
+        "FID": 145,
+        "OBJECTID": 300,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Lindsey Gardens",
+        "ADDRESS": "426 N M St (800 E)",
+        "X": -111.86446876,
+        "Y": 40.77910354
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.900339161026, 40.7904175645343, 0]
+      },
+      "properties": {
+        "FID": 146,
+        "OBJECTID": 301,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "North Gateway Park",
+        "ADDRESS": "910 N Beck St (300 W)",
+        "X": -111.90032742,
+        "Y": 40.79041153
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.821492964933, 40.7452898210161, 0]
+      },
+      "properties": {
+        "FID": 147,
+        "OBJECTID": 302,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Oak Hills Ball Diamonds",
+        "ADDRESS": "1216 S Wasatch Dr (2520 E)",
+        "X": -111.82148125,
+        "Y": 40.74528378
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.808874326544, 40.7103647019484, 0]
+      },
+      "properties": {
+        "FID": 148,
+        "OBJECTID": 303,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Parley's Historic Nature Park",
+        "ADDRESS": "2740 S 2700 E",
+        "X": -111.80886261,
+        "Y": 40.71035866
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.925327172381, 40.7525997103476, 0]
+      },
+      "properties": {
+        "FID": 149,
+        "OBJECTID": 304,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Poplar Grove Park",
+        "ADDRESS": "800 S Emery St (1170 W)",
+        "X": -111.92531543,
+        "Y": 40.75259368
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.847541434787, 40.7785840234454, 0]
+      },
+      "properties": {
+        "FID": 150,
+        "OBJECTID": 305,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Popperton Park",
+        "ADDRESS": "1400 E Popperton Park Way (360 N)",
+        "X": -111.84752971,
+        "Y": 40.77857798
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 151,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.853173090982, 40.7686407629871, 0]
+      },
+      "properties": {
+        "FID": 151,
+        "OBJECTID": 306,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Reservior Park",
+        "ADDRESS": "42 S University St (1345 E)",
+        "X": -111.85316136,
+        "Y": 40.76863472
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.878154156563, 40.7558696131256, 0]
+      },
+      "properties": {
+        "FID": 152,
+        "OBJECTID": 307,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Richmond Park",
+        "ADDRESS": "444 E 600 S",
+        "X": -111.87814242,
+        "Y": 40.75586357
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.93451043124, 40.7846381913541, 0]
+      },
+      "properties": {
+        "FID": 153,
+        "OBJECTID": 308,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Riverside Park",
+        "ADDRESS": "1476 W 600 N",
+        "X": -111.93449868,
+        "Y": 40.78463215
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 154,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.922555146586, 40.799068629121, 0]
+      },
+      "properties": {
+        "FID": 154,
+        "OBJECTID": 309,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Rosewood Park",
+        "ADDRESS": "1400 N 1200 W",
+        "X": -111.9225434,
+        "Y": 40.79906259
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.807972938123, 40.7497406842683, 0]
+      },
+      "properties": {
+        "FID": 155,
+        "OBJECTID": 310,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Rotary Glen Park",
+        "ADDRESS": "2850 E Sunnyside Ave (840 S)",
+        "X": -111.80796122,
+        "Y": 40.74973464
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.944385166492, 40.8115915681278, 0]
+      },
+      "properties": {
+        "FID": 156,
+        "OBJECTID": 311,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Salt Lake Regional Athletic Complex",
+        "ADDRESS": "2100 N Rosepark Ln (1990 W)",
+        "X": -111.94437341,
+        "Y": 40.81158553
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.93166928727, 40.7616729977149, 0]
+      },
+      "properties": {
+        "FID": 157,
+        "OBJECTID": 312,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Sherwood Park",
+        "ADDRESS": "1400 W 400 S",
+        "X": -111.93165754,
+        "Y": 40.76166696
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.835053690816, 40.7145158737157, 0]
+      },
+      "properties": {
+        "FID": 158,
+        "OBJECTID": 313,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Stratford Park",
+        "ADDRESS": "2664 S 2000 E",
+        "X": -111.83504197,
+        "Y": 40.71450984
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8492404095, 40.7240791031427, 0]
+      },
+      "properties": {
+        "FID": 159,
+        "OBJECTID": 314,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Sugar House Park",
+        "ADDRESS": "1350 E 2100 S",
+        "X": -111.84922869,
+        "Y": 40.72407307
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.842053188338, 40.7518888299854, 0]
+      },
+      "properties": {
+        "FID": 160,
+        "OBJECTID": 315,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Sunnyside Ave",
+        "ADDRESS": "1735 E Sunnyside Ave (840 S)",
+        "X": -111.84204146,
+        "Y": 40.75188279
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 161,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.817248597692, 40.7117581432604, 0]
+      },
+      "properties": {
+        "FID": 161,
+        "OBJECTID": 316,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Tanner Park",
+        "ADDRESS": "2695 E Heritage Way (2760 S)",
+        "X": -111.81723688,
+        "Y": 40.71175211
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 162,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.898224348981, 40.787380410093, 0]
+      },
+      "properties": {
+        "FID": 162,
+        "OBJECTID": 317,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Warm Springs Park",
+        "ADDRESS": "840 N Beck St (300 W)",
+        "X": -111.89821261,
+        "Y": 40.78737437
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.947241823469, 40.7938647169909, 0]
+      },
+      "properties": {
+        "FID": 163,
+        "OBJECTID": 318,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Westpointe Park",
+        "ADDRESS": "1920 W Colonel Rd (1100 N)",
+        "X": -111.94723007,
+        "Y": 40.79385868
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 164,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.919014648896, 40.7698121699142, 0]
+      },
+      "properties": {
+        "FID": 164,
+        "OBJECTID": 319,
+        "POI_CATEGO": "Park",
+        "POI_NAME": "Madsen Park",
+        "ADDRESS": "9 N Chicago St (940 W)",
+        "X": -111.91900291,
+        "Y": 40.76980613
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.889796529258, 40.7642820591812, 0]
+      },
+      "properties": {
+        "FID": 165,
+        "OBJECTID": 320,
+        "POI_CATEGO": "Public Square",
+        "POI_NAME": "John W. Gallivan Utah Center",
+        "ADDRESS": "50 E 200 S",
+        "X": -111.88978479,
+        "Y": 40.76427602
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 166,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.884369840763, 40.7598825804651, 0]
+      },
+      "properties": {
+        "FID": 166,
+        "OBJECTID": 321,
+        "POI_CATEGO": "Public Square",
+        "POI_NAME": "The City Library Square",
+        "ADDRESS": "210 E 400 S",
+        "X": -111.88435811,
+        "Y": 40.75987654
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.887604995698, 40.7595872877019, 0]
+      },
+      "properties": {
+        "FID": 167,
+        "OBJECTID": 322,
+        "POI_CATEGO": "Public Square",
+        "POI_NAME": "Washington Square",
+        "ADDRESS": "451 S State St (100 E)",
+        "X": -111.88759326,
+        "Y": 40.75958125
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 168,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.863795543453, 40.7200328132002, 0]
+      },
+      "properties": {
+        "FID": 168,
+        "OBJECTID": 323,
+        "POI_CATEGO": "Skate Park",
+        "POI_NAME": "Fairmont Park Skate Park",
+        "ADDRESS": "2305 S 900 E",
+        "X": -111.86378382,
+        "Y": 40.72002678
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.917330752404, 40.7476969372686, 0]
+      },
+      "properties": {
+        "FID": 169,
+        "OBJECTID": 324,
+        "POI_CATEGO": "Skate Park",
+        "POI_NAME": "Jordan Park Skate Park",
+        "ADDRESS": "1060 S 900 W",
+        "X": -111.91731901,
+        "Y": 40.7476909
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 170,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.822049475743, 40.7444177447459, 0]
+      },
+      "properties": {
+        "FID": 170,
+        "OBJECTID": 325,
+        "POI_CATEGO": "Tennis Park",
+        "POI_NAME": "Dee Glenn Smith Tennis",
+        "ADDRESS": "1218 S Wasatch Dr (2520 E)",
+        "X": -111.82203776,
+        "Y": 40.7444117
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 171,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.911424478531, 40.749522745345, 0]
+      },
+      "properties": {
+        "FID": 171,
+        "OBJECTID": 326,
+        "POI_CATEGO": "Trail",
+        "POI_NAME": "9 Line Trail",
+        "ADDRESS": "700 W 900 S",
+        "X": -111.91141274,
+        "Y": 40.74951671
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 172,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.817395880975, 40.7497757631088, 0]
+      },
+      "properties": {
+        "FID": 172,
+        "OBJECTID": 327,
+        "POI_CATEGO": "Zoo/Aviary",
+        "POI_NAME": "Hogle Zoo",
+        "ADDRESS": "2600 E Sunnyside Ave (840 S)",
+        "X": -111.81738416,
+        "Y": 40.74976972
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 173,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.875259616733, 40.7427380630951, 0]
+      },
+      "properties": {
+        "FID": 173,
+        "OBJECTID": 328,
+        "POI_CATEGO": "Zoo/Aviary",
+        "POI_NAME": "Tracy Aviary",
+        "ADDRESS": "589 E 1300 S",
+        "X": -111.87524789,
+        "Y": 40.74273203
+      }
+    }
+  ]
+}

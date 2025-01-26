@@ -1,0 +1,156 @@
+/* Base style for all GeoJSON layers */
+.geojson-layer-0 {
+    fill-opacity: 0.7;
+    stroke: #5a2d99; /* Purple */
+    stroke-width: 5;
+    z-index: 5; /* Paths on top */
+}
+
+/* Sweeping_Bike_Lane.geojson */
+.geojson-layer-1 {
+    fill-opacity: 0.7;
+    stroke-width: 5;
+    z-index: 5; /* Paths on top */
+}
+
+/* On_Road_Bike_Way.geojson */
+.geojson-layer-2 {
+    fill-opacity: 0.7;
+    stroke: #e9c46a; /* Yellow */
+    stroke-width: 5;
+    z-index: 5; /* Paths on top */
+}
+
+/* OSM.geojson */
+.geojson-layer-3 {
+    fill-opacity: 0.7;
+    stroke: #2a9d8f; /* Teal */
+    stroke-width: 5;
+    z-index: 5; /* Paths on top */
+}
+
+/* SLCParks.geojson */
+.geojson-layer-4 {
+    fill: #00d007; /* Strong red */
+    fill-opacity: 0.4;
+    stroke: #264653; /* Dark green */
+    stroke-width: 1;
+    z-index: 0; /* Parks at the bottom */
+}
+
+/* Historic_Preservation.geojson */
+.geojson-layer-5 {
+    fill: #ffd900; /* Deep blue */
+    fill-opacity: 0.4;
+    stroke: #ff8800; /* Light beige */
+    stroke-width: 1;
+    z-index: 0; /* Background layer */
+}
+
+/* POI.geojson */
+.geojson-layer-6 {
+    fill-opacity: 0.7;
+    stroke: #f1faee; /* Light beige */
+    stroke-width: 2;
+    z-index: 5; /* Set a high z-index for paths */
+}
+
+/* Historic_Sites.geojson */
+.geojson-layer-7 {
+    fill-opacity: 0.7;
+    stroke: #264653; /* Dark green */
+    stroke-width: 2;
+    z-index: 5; /* Paths on top */
+}
+
+/* Public_Art.geojson */
+.geojson-layer-8 {
+    fill-opacity: 0.7;
+    stroke: #1d3557; /* Deep blue */
+    stroke-width: 2;
+    z-index: 5; /* Paths on top */
+}
+
+/* Bench.geojson */
+.geojson-layer-9 {
+    fill-opacity: 0.7;
+    stroke: #264653; /* Dark green */
+    stroke-width: 2;
+    z-index: 5; /* Paths on top */
+}
+
+/* Bike_Rack.geojson */
+.geojson-layer-10 {
+    fill: #2b9348; /* Green */
+    fill-opacity: 0.7;
+    stroke: #e63946; /* Red */
+    stroke-width: 2;
+    z-index: 5; /* Paths on top */
+}
+
+
+
+
+/* src/Controls.css */
+.controls {
+    position: absolute;
+    top: 200px;
+    left: 20px;
+    z-index: 1000;
+    background-color: rgba(255, 255, 255);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    width: 250px;
+    max-height: 90vh;
+    overflow-y: auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .controls h3 {
+    margin: 0;
+    padding-bottom: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  .control-item {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .control-item:last-child {
+    border-bottom: none;
+  }
+  
+  input[type="checkbox"] {
+    margin-right: 10px;
+    accent-color: #4caf50; /* Green accent color for checkboxes */
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+  }
+  
+  label {
+    font-size: 1rem;
+    color: #333;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  label:hover {
+    color: #4caf50;
+  }
+  
+  .controls .no-files {
+    color: #d32f2f;
+    font-size: 1rem;
+    text-align: center;
+    padding-top: 10px;
+  }
+  
